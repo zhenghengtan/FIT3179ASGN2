@@ -1,0 +1,73 @@
+station_name,location,type,latitude,longitude
+Gombak LRT station,"Jalan Terminal Putra, Taman Melati  53100, Kuala Lumpur  Malaysia",LRT,3.226437,101.724989
+Taman Melati LRT station,"Persiaran Pertahanan, Taman Melati  53100, Kuala Lumpur  Malaysia",LRT,3.223688,101.726384
+Wangsa Maju LRT station,"Jalan 1/27A and Jalan 16/27B  Section 2, Wangsa Maju  53300, Kuala Lumpur, Malaysia",LRT,3.208613,101.733085
+Sri Rampai LRT station,"Jalan Wangsa Perdana 1  Taman Sri Rampai, Wangsa Maju  53300, Kuala Lumpur  Malaysia",LRT,3.201344,101.744175
+Setiawangsa LRT station,"Jalan Jelatek  AU1, Taman Setiawangsa  54200, Kuala Lumpur  Malaysia",LRT,3.177713,101.75013
+Jelatek LRT station,"Jalan Jelatek  AU1, Taman Keramat  54200, Kuala Lumpur  Malaysia",LRT,3.184833,101.74807
+Dato' Keramat LRT station,"Jalan Datuk Keramat  Kampung Datuk Keramat  54000, Kuala Lumpur, Malaysia",LRT,3.166291,101.724998
+Damai LRT station (Malaysia),"Jalan Datuk Keramat  Kampung Datuk Keramat  54000, Kuala Lumpur, Malaysia",LRT,3.166291,101.724998
+Ampang Park LRT station,"Jalan Ampang, Kuala LumpurMalaysia",LRT,3.15976,101.707857
+KLCC LRT station,"Jalan Ampang, Kuala Lumpur",LRT,3.15976,101.707857
+Kampung Baru LRT station,"Jalan Haji Hassan Salleh, Kampung Baru, Kuala Lumpur, Malaysia.",LRT,3.166093,101.711031
+Dang Wangi LRT station,"Jalan Ampang, City Centre, Kuala Lumpur, Malaysia.",LRT,3.1516964,101.6942371
+Masjid Jamek LRT station,Jalan Tun Perak50050 WP Kuala Lumpur,LRT,3.1516964,101.6942371
+Pasar Seni LRT station,"Nearby Central Market, Kuala Lumpur, Malaysia",LRT,3.145855,101.69568
+Kuala Lumpur Sentral railway station,"Brickfields, Kuala LumpurMalaysia",LRT,-33.888615,151.19979
+Bank Rakyat-Bangsar LRT Station,"Jalan Bangsar, Bangsar, Kuala LumpurMalaysia",LRT,-7.500732,112.482126
+Abdullah Hukum station,"Jalan Bangsar, Kampung Haji Abdullah Hukum, Kuala Lumpur, Malaysia.",LRT,3.118973,101.672512
+Kerinchi LRT station,Plaza Pantai,LRT,3.115596,101.668543
+Universiti LRT station,"Beside Kuala Lumpur bound, Federal Highway.",LRT,3.07154,101.702468
+Taman Jaya LRT station,"Persiaran Barat, Section 52, Petaling Jaya, Selangor, Malaysia.",LRT,3.099175,101.645023
+Asia Jaya LRT station,"Off Jalan Utara and Jalan 51A/223, Section 51A, Petaling Jaya, Selangor, Malaysia.",LRT,3.098357,101.590096
+Taman Paramount LRT station,At the edge of Jalan 21/1,LRT,42.858132,140.705498
+Taman Bahagia LRT station,Jalan SS 3/59E and Jalan SS 2/3,LRT,-2.322023,104.459193
+Kelana Jaya LRT station,Southbound carriageway on the E11 Damansara–Puchong Expressway between exit 1108 and 1109,LRT,44.30585,-78.319477
+Lembah Subang LRT station,"Jalan PJU 1A/46  PJU 1A, Ara Damansara  47301, Petaling Jaya, Selangor  Malaysia",LRT,3.123983,101.582308
+Ara Damansara LRT station,"Jalan Lapangan Terbang Subang  PJU 1A, Ara Damansara  47301, Petaling Jaya, Selangor  Malaysia",LRT,3.123983,101.582308
+Glenmarie LRT station,"Jalan Lapangan Terbang Subang  Glenmarie, Section U1  40150, Shah Alam, Selangor  Malaysia",LRT,3.082665,101.561558
+Subang Jaya station,"Jalan SS16/1, SS16  47500, Subang JayaSelangorMalaysia",LRT,3.079168,101.598234
+SS15 LRT station,"Persiaran Jengka, SS15  47500, Subang Jaya, SelangorMalaysia",LRT,3.0766,101.586589
+SS18 LRT station,"Persiaran Jengka, SS18  47500, Subang Jaya, SelangorMalaysia",LRT,3.06931,101.594653
+USJ7 LRT station,"Persiaran Kewajipan  USJ7, UEP Subang Jaya  47610, Subang JayaSelangorMalaysia",LRT,3.055689,101.580523
+Taipan LRT station,"Persiaran Kewajipan  USJ6 (Taipan), UEP Subang Jaya  47610, Subang Jaya, Selangor  Malaysia",LRT,3.055689,101.580523
+Wawasan LRT station,"Persiaran Kewajipan  USJ14, UEP Subang Jaya  47630, Subang Jaya, Selangor  Malaysia",LRT,3.0792,101.580845
+USJ21 LRT station,"Persiaran Kewajipan  USJ21, UEP Subang Jaya  47630, Subang Jaya, Selangor  Malaysia",LRT,3.0792,101.580845
+Alam Megah LRT station,"Jalan Beranang 27/14A  Taman Bunga Negara  Section 27, Alam Megah  40400, Shah Alam, SelangorMalaysia",LRT,3.006683,101.568885
+Subang Alam LRT station,"Persiaran Putra Perdana  Subang Alam, Section 28  40400, Shah Alam, SelangorMalaysia",LRT,3.017094,101.558721
+Putra Heights LRT station,"Putra Point Commercial Center  Persiaran Putra Indah, Putra Heights  47650, Subang Jaya, Selangor, Malaysia",LRT,3.012442,101.579268
+Stesen LRT Sentul Timur,"Stesen Sentul Timur, Jalan 2/48A, Bandar Baru Sentul, 51000 Kuala Lumpur, WP Kuala Lumpur, Malaysia",LRT,3.200893,101.696198
+Stesen LRT Sentul,"Stesen Sentul, Jalan 2/48A, Bandar Baru Sentul, 51000 Kuala Lumpur, WP Kuala Lumpur, Malaysia",LRT,3.200893,101.696198
+Titiwangsa station,"Jalan Tun Razak, Titiwangsa, Kuala LumpurMalaysia",LRT,3.166162,101.70943
+Stesen LRT PWTC,"Stesen PWTC, Jalan Putra, Chow Kit, 50350 Kuala Lumpur, WP Kuala Lumpur, Malaysia",LRT,3.165086,101.6978325
+Stesen LRT Sultan Ismail,"Stesen Sultan Ismail, Jalan Sultan Ismail, Chow Kit, 50350 Kuala Lumpur, WP Kuala Lumpur, Malaysia",LRT,3.151696,101.694237
+Stesen LRT Bandaraya,"Stesen Bandaraya, Jalan Raja Laut, Pusat Bandar Kuala Lumpur, 50100 Kuala Lumpur, WP Kuala Lumpur, Malaysia",LRT,3.153366,101.699014
+Stesen LRT Masjid Jamek,"Stesen Masjid Jamek, Jalan Tun Perak, 50050 Kuala Lumpur, WP Kuala Lumpur, Malaysia",LRT,3.1516964,101.6942371
+Plaza Rakyat LRT station,Jalan Pudu56000 WP Kuala Lumpur,LRT,35.704975,139.7582
+BBCC-Hang Tuah station,"Bukit Bintang City Centre, Jalan Hang Tuah, Pudu, 55200 Kuala Lumpur",LRT,3.137433,101.704462
+Stesen LRT Pudu,"Stesen Pudu, Jalan Sarawak, Pudu, 55200 Kuala Lumpur, WP Kuala Lumpur, Malaysia",LRT,3.1470725,101.716104
+Stesen Chan Sow Lin,"Stesen Chan Sow Lin, Jalan Chan Sow Lin, Pudu, 55200 Kuala Lumpur, WP Kuala Lumpur, Malaysia",LRT,3.125437,101.713447
+Cheras LRT station,"Jalan Jelawat Satu and Jalan 3/12, (northern) Sungai Besi-Taman Ikan Emas border, Kuala Lumpur, Malaysia.",LRT,3.1516964,101.6942371
+Salak Selatan LRT station,"Jalan Sungai Besi, Salak South, Kuala Lumpur, Malaysia.",LRT,3.1516964,101.6942371
+Bandar Tun Razak LRT station,"Persiaran Ikhlas, Bandar Tun Razak, Kuala Lumpur, Malaysia.",LRT,3.091532,101.712893
+Bandar Tasik Selatan station,"Kuala Lumpur Middle Ring Road 2, Bandar Tasik Selatan, Kuala Lumpur, Malaysia.",LRT,3.071825,101.716913
+Sungai Besi station,"Sungai Besi, Kuala LumpurMalaysia",LRT,3.065979,101.712342
+Bukit Jalil LRT station,"Bukit Jalil, Kuala Lumpur, Malaysia.",LRT,3.057827,101.674269
+Sri Petaling LRT station,"Sri Petaling, Kuala Lumpur, Malaysia.",LRT,3.068288,101.684762
+Awan Besar LRT station,"Bukit OUG, Kuala Lumpur, Malaysia.",LRT,3.062206,101.664358
+Muhibbah LRT station,"Kampung Muhibbah, Kuala Lumpur, Malaysia.",LRT,3.1516964,101.6942371
+Alam Sutera LRT station,"Alam Sutera, Bandar Kinrara, SelangorMalaysia",LRT,-6.243771,106.653832
+Kinrara BK 5 LRT station,"Bukit Jalil Highway  Bandar Kinrara 2  47180, Puchong, SelangorMalaysia",LRT,3.043339,101.641019
+IOI Puchong Jaya LRT station,"Damansara–Puchong Expressway  Bandar Puchong Jaya  47170 Puchong, SelangorMalaysia",LRT,3.039964,101.627957
+Pusat Bandar Puchong LRT station,"Damansara–Puchong Expressway  Pusat Bandar Puchong  47160 Puchong, SelangorMalaysia",LRT,3.036029,101.616056
+Taman Perindustrian Puchong LRT station,"Damansara–Puchong Expressway  Taman Perindustrian Puchong  47100 Puchong, SelangorMalaysia",LRT,3.011881,101.612986
+Bandar Puteri LRT station,"Jalan Puchong–Dengkil  Bandar Puteri Puchong  47100, Puchong, SelangorMalaysia",LRT,3.02364,101.618385
+Puchong Perdana LRT station,"Persiaran Puchong Perdana  Taman Puchong Perdana  47100, Puchong, SelangorMalaysia",LRT,3.03955,101.62447
+Puchong Prima LRT station,"Persiaran Puchong Permai  Taman Puchong Prima  47150, Puchong, SelangorMalaysia",LRT,3.005267,101.606781
+Stesen LRT Miharja,"Stesen Miharja, Jalan 1/93, Taman Miharja, 55200 Kuala Lumpur, WP Kuala Lumpur, Malaysia",LRT,3.1470725,101.716104
+Stesen Maluri,"Stesen Maluri, Jalan Cheras, 56100 Kuala Lumpur, WP Kuala Lumpur, Malaysia",LRT,3.12828,101.737233
+Stesen LRT Pandan Jaya,"Stesen Pandan Jaya, Persiaran Pandan 1, Pandan Jaya, 55100 Ampang Jaya, Selangor, Malaysia",LRT,3.144045,101.765455
+Stesen LRT Pandan Indah,"Stesen Pandan Indah, Off Jalan Pandan Indah 20, Pandan Indah, 55100 Ampang Jaya, Selangor, Malaysia",LRT,3.144045,101.765455
+Stesen LRT Cempaka,"Stesen Cempaka, Jalan Cempaka 8, Taman Cempaka, 55100 Ampang Jaya, Selangor, Malaysia",LRT,3.13922,101.748311
+Stesen LRT Cahaya,"Stesen Cahaya, Jalan Pandan Cahaya 1/1, Pandan Cahaya, 68000 Ampang Jaya, Selangor, Malaysia.",LRT,3.138773,101.756844
+Stesen LRT Ampang,"Stesen Ampang, Jalan Ampang, Pekan Ampang, 68000 Ampang, Selangor, Malaysia",LRT,3.147792,101.762239

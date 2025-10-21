@@ -1,0 +1,182 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Distribution of domestic bus terminals across Malaysian states.",
+  "width": "container",
+  "height": 460,
+  "projection": {
+    "type": "mercator",
+    "center": [
+      110.0,
+      4.0
+    ],
+    "scale": 1700
+  },
+  "params": [
+    {
+      "name": "MinTerminals",
+      "value": 1,
+      "bind": {
+        "input": "range",
+        "name": "Minimum terminals: ",
+        "min": 1,
+        "max": 22,
+        "step": 1
+      }
+    }
+  ],
+  "layer": [
+    {
+      "data": {
+        "url": "https://vega.github.io/vega-datasets/data/world-110m.json",
+        "format": {
+          "type": "topojson",
+          "feature": "countries"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.id == 458"
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "fill": "#f7f7f7",
+        "stroke": "#d0d7de",
+        "strokeWidth": 0.8
+      }
+    },
+    {
+      "data": {
+        "url": "data/state_bus_counts.json"
+      },
+      "transform": [
+        {
+          "filter": "datum.terminal_count >= MinTerminals"
+        }
+      ],
+      "layer": [
+        {
+          "params": [
+            {
+              "name": "stateHover",
+              "select": {
+                "type": "point",
+                "fields": [
+                  "state"
+                ],
+                "on": "pointerover",
+                "clear": "pointerout",
+                "toggle": false
+              }
+            }
+          ],
+          "mark": {
+            "type": "circle"
+          },
+          "encoding": {
+            "longitude": {
+              "field": "longitude",
+              "type": "quantitative"
+            },
+            "latitude": {
+              "field": "latitude",
+              "type": "quantitative"
+            },
+            "size": {
+              "field": "terminal_count",
+              "type": "quantitative",
+              "title": "Terminal count",
+              "scale": {
+                "range": [
+                  120,
+                  1800
+                ]
+              }
+            },
+            "color": {
+              "field": "terminal_count",
+              "type": "quantitative",
+              "title": "Terminal count",
+              "scale": {
+                "scheme": "blues"
+              }
+            },
+            "opacity": {
+              "condition": {
+                "param": "stateHover",
+                "value": 1.0,
+                "empty": false
+              },
+              "value": 0.85
+            },
+            "stroke": {
+              "condition": {
+                "param": "stateHover",
+                "value": "#ff7f0e",
+                "empty": false
+              },
+              "value": "#ffffff"
+            },
+            "strokeWidth": {
+              "condition": {
+                "param": "stateHover",
+                "value": 2.5,
+                "empty": false
+              },
+              "value": 1.2
+            },
+            "tooltip": [
+              {
+                "field": "state",
+                "title": "State"
+              },
+              {
+                "field": "terminal_count",
+                "type": "quantitative",
+                "title": "Terminals"
+              },
+              {
+                "field": "sample_terminals",
+                "title": "Examples"
+              }
+            ]
+          }
+        },
+        {
+          "transform": [
+            {
+              "filter": {
+                "param": "stateHover"
+              }
+            }
+          ],
+          "mark": {
+            "type": "text",
+            "dy": -14,
+            "fontSize": 12,
+            "fontWeight": "bold",
+            "fill": "#2b2d42"
+          },
+          "encoding": {
+            "longitude": {
+              "field": "longitude",
+              "type": "quantitative"
+            },
+            "latitude": {
+              "field": "latitude",
+              "type": "quantitative"
+            },
+            "text": {
+              "field": "state"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "config": {
+    "view": {
+      "stroke": null
+    }
+  }
+}

@@ -1,0 +1,410 @@
+[
+  {
+    "station": "Gombak",
+    "order": 1,
+    "latitude": 3.226437,
+    "longitude": 101.724989
+  },
+  {
+    "station": "Taman Melati",
+    "order": 2,
+    "latitude": 3.223688,
+    "longitude": 101.726384
+  },
+  {
+    "station": "Wangsa Maju",
+    "order": 3,
+    "latitude": 3.208613,
+    "longitude": 101.733085
+  },
+  {
+    "station": "Sri Rampai",
+    "order": 4,
+    "latitude": 3.201344,
+    "longitude": 101.744175
+  },
+  {
+    "station": "Setiawangsa",
+    "order": 5,
+    "latitude": 3.177713,
+    "longitude": 101.75013
+  },
+  {
+    "station": "Jelatek",
+    "order": 6,
+    "latitude": 3.184833,
+    "longitude": 101.74807
+  },
+  {
+    "station": "Dato' Keramat",
+    "order": 7,
+    "latitude": 3.166291,
+    "longitude": 101.724998
+  },
+  {
+    "station": "Damai",
+    "order": 8,
+    "latitude": 3.166291,
+    "longitude": 101.724998
+  },
+  {
+    "station": "Ampang Park",
+    "order": 9,
+    "latitude": 3.15976,
+    "longitude": 101.707857
+  },
+  {
+    "station": "KLCC",
+    "order": 10,
+    "latitude": 3.15976,
+    "longitude": 101.707857
+  },
+  {
+    "station": "Kampung Baru",
+    "order": 11,
+    "latitude": 3.166093,
+    "longitude": 101.711031
+  },
+  {
+    "station": "Dang Wangi",
+    "order": 12,
+    "latitude": 3.1516964,
+    "longitude": 101.6942371
+  },
+  {
+    "station": "Masjid Jamek (KJL)",
+    "order": 13,
+    "latitude": 3.1516964,
+    "longitude": 101.6942371
+  },
+  {
+    "station": "Pasar Seni (KJL)",
+    "order": 14,
+    "latitude": 3.145855,
+    "longitude": 101.69568
+  },
+  {
+    "station": "KL Sentral (KJL)",
+    "order": 15,
+    "latitude": 3.1346,
+    "longitude": 101.6865
+  },
+  {
+    "station": "Bangsar",
+    "order": 16,
+    "latitude": 3.1282,
+    "longitude": 101.679
+  },
+  {
+    "station": "Abdullah Hukum",
+    "order": 17,
+    "latitude": 3.118973,
+    "longitude": 101.672512
+  },
+  {
+    "station": "Kerinchi",
+    "order": 18,
+    "latitude": 3.115596,
+    "longitude": 101.668543
+  },
+  {
+    "station": "Universiti",
+    "order": 19,
+    "latitude": 3.07154,
+    "longitude": 101.702468
+  },
+  {
+    "station": "Taman Jaya",
+    "order": 20,
+    "latitude": 3.099175,
+    "longitude": 101.645023
+  },
+  {
+    "station": "Asia Jaya",
+    "order": 21,
+    "latitude": 3.098357,
+    "longitude": 101.590096
+  },
+  {
+    "station": "Taman Paramount",
+    "order": 22,
+    "latitude": 3.1075,
+    "longitude": 101.6222
+  },
+  {
+    "station": "Taman Bahagia",
+    "order": 23,
+    "latitude": 3.1116,
+    "longitude": 101.6144
+  },
+  {
+    "station": "Kelana Jaya",
+    "order": 24,
+    "latitude": 3.1093,
+    "longitude": 101.6151
+  },
+  {
+    "station": "Lembah Subang",
+    "order": 25,
+    "latitude": 3.123983,
+    "longitude": 101.582308
+  },
+  {
+    "station": "Ara Damansara",
+    "order": 26,
+    "latitude": 3.123983,
+    "longitude": 101.582308
+  },
+  {
+    "station": "Glenmarie",
+    "order": 27,
+    "latitude": 3.082665,
+    "longitude": 101.561558
+  },
+  {
+    "station": "Subang Jaya",
+    "order": 28,
+    "latitude": 3.079168,
+    "longitude": 101.598234
+  },
+  {
+    "station": "SS 15",
+    "order": 29,
+    "latitude": 3.0817,
+    "longitude": 101.5863
+  },
+  {
+    "station": "SS 18",
+    "order": 30,
+    "latitude": 3.0744,
+    "longitude": 101.5931
+  },
+  {
+    "station": "USJ 7 (KJL)",
+    "order": 31,
+    "latitude": 3.0482,
+    "longitude": 101.5934
+  },
+  {
+    "station": "Taipan",
+    "order": 32,
+    "latitude": 3.055689,
+    "longitude": 101.580523
+  },
+  {
+    "station": "Wawasan",
+    "order": 33,
+    "latitude": 3.0792,
+    "longitude": 101.580845
+  },
+  {
+    "station": "USJ 21",
+    "order": 34,
+    "latitude": 3.0279,
+    "longitude": 101.5853
+  },
+  {
+    "station": "Alam Megah",
+    "order": 35,
+    "latitude": 3.006683,
+    "longitude": 101.568885
+  },
+  {
+    "station": "Subang Alam",
+    "order": 36,
+    "latitude": 3.017094,
+    "longitude": 101.558721
+  },
+  {
+    "station": "Putra Heights (KJL)",
+    "order": 37,
+    "latitude": 3.012442,
+    "longitude": 101.579268
+  },
+  {
+    "station": "Sungai Buloh",
+    "order": 38,
+    "latitude": 3.1979,
+    "longitude": 101.5771
+  },
+  {
+    "station": "Kampung Selamat",
+    "order": 39,
+    "latitude": 3.2106,
+    "longitude": 101.5703
+  },
+  {
+    "station": "Kwasa Damansara",
+    "order": 40,
+    "latitude": 3.1804,
+    "longitude": 101.5666
+  },
+  {
+    "station": "Kwasa Sentral",
+    "order": 41,
+    "latitude": 3.1735,
+    "longitude": 101.5732
+  },
+  {
+    "station": "Kota Damansara",
+    "order": 42,
+    "latitude": 3.1575,
+    "longitude": 101.5853
+  },
+  {
+    "station": "Surian",
+    "order": 43,
+    "latitude": 3.1457,
+    "longitude": 101.5937
+  },
+  {
+    "station": "Mutiara Damansara",
+    "order": 44,
+    "latitude": 3.1443,
+    "longitude": 101.6096
+  },
+  {
+    "station": "Bandar Utama",
+    "order": 45,
+    "latitude": 3.146,
+    "longitude": 101.6157
+  },
+  {
+    "station": "TTDI",
+    "order": 46,
+    "latitude": 3.1374,
+    "longitude": 101.6278
+  },
+  {
+    "station": "Phileo Damansara",
+    "order": 47,
+    "latitude": 3.1313,
+    "longitude": 101.6408
+  },
+  {
+    "station": "Pusat Bandar Damansara",
+    "order": 48,
+    "latitude": 3.1485,
+    "longitude": 101.6632
+  },
+  {
+    "station": "Semantan",
+    "order": 49,
+    "latitude": 3.154,
+    "longitude": 101.661
+  },
+  {
+    "station": "Muzium Negara",
+    "order": 50,
+    "latitude": 3.1277,
+    "longitude": 101.6876
+  },
+  {
+    "station": "Pasar Seni (SBK)",
+    "order": 51,
+    "latitude": 3.145855,
+    "longitude": 101.69568
+  },
+  {
+    "station": "Merdeka",
+    "order": 52,
+    "latitude": 3.1411,
+    "longitude": 101.6983
+  },
+  {
+    "station": "Bukit Bintang",
+    "order": 53,
+    "latitude": 3.147,
+    "longitude": 101.7082
+  },
+  {
+    "station": "Tun Razak Exchange (TRX)",
+    "order": 54,
+    "latitude": 3.1399,
+    "longitude": 101.7188
+  },
+  {
+    "station": "Cochrane",
+    "order": 55,
+    "latitude": 3.1317,
+    "longitude": 101.7329
+  },
+  {
+    "station": "Maluri (SBK)",
+    "order": 56,
+    "latitude": 3.12828,
+    "longitude": 101.737233
+  },
+  {
+    "station": "Taman Pertama",
+    "order": 57,
+    "latitude": 3.114,
+    "longitude": 101.7419
+  },
+  {
+    "station": "Taman Midah",
+    "order": 58,
+    "latitude": 3.1066,
+    "longitude": 101.7441
+  },
+  {
+    "station": "Taman Mutiara",
+    "order": 59,
+    "latitude": 3.0956,
+    "longitude": 101.7506
+  },
+  {
+    "station": "Taman Connaught",
+    "order": 60,
+    "latitude": 3.0847,
+    "longitude": 101.7542
+  },
+  {
+    "station": "Taman Suntex",
+    "order": 61,
+    "latitude": 3.0705,
+    "longitude": 101.7712
+  },
+  {
+    "station": "Sri Raya",
+    "order": 62,
+    "latitude": 3.0608,
+    "longitude": 101.7813
+  },
+  {
+    "station": "Bandar Tun Hussein Onn",
+    "order": 63,
+    "latitude": 3.0451,
+    "longitude": 101.7871
+  },
+  {
+    "station": "Batu 11 Cheras",
+    "order": 64,
+    "latitude": 3.0348,
+    "longitude": 101.7904
+  },
+  {
+    "station": "Bukit Dukung",
+    "order": 65,
+    "latitude": 3.0246,
+    "longitude": 101.7933
+  },
+  {
+    "station": "Sungai Jernih",
+    "order": 66,
+    "latitude": 3.0148,
+    "longitude": 101.7936
+  },
+  {
+    "station": "Stadium Kajang",
+    "order": 67,
+    "latitude": 3.0087,
+    "longitude": 101.7938
+  },
+  {
+    "station": "Kajang",
+    "order": 68,
+    "latitude": 3.0033,
+    "longitude": 101.7896
+  }
+]

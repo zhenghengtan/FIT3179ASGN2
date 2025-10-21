@@ -1,0 +1,112 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Average monthly rail ridership by service.",
+  "width": "container",
+  "height": 360,
+  "data": {
+    "url": "data/rail_monthly_ridership.json"
+  },
+  "transform": [
+    {
+      "calculate": "toDate(datum.month + '-01')",
+      "as": "month_date"
+    }
+  ],
+  "params": [],
+  "layer": [
+    {
+      "mark": {
+        "type": "line",
+        "strokeWidth": 2
+      },
+      "encoding": {
+        "x": {
+          "field": "month_date",
+          "type": "temporal",
+          "timeUnit": "yearmonth",
+          "title": "Month"
+        },
+        "y": {
+          "field": "average_ridership",
+          "type": "quantitative",
+          "title": "Average daily ridership"
+        },
+        "color": {
+          "field": "mode",
+          "title": "Rail mode",
+          "type": "nominal"
+        }
+      }
+    },
+    {
+      "params": [
+        {
+          "name": "ModeHover",
+          "select": {
+            "type": "point",
+            "fields": [
+              "mode"
+            ],
+            "on": "pointerover",
+            "clear": "pointerout"
+          }
+        }
+      ],
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "size": 55
+      },
+      "encoding": {
+        "x": {
+          "field": "month_date",
+          "type": "temporal",
+          "timeUnit": "yearmonth"
+        },
+        "y": {
+          "field": "average_ridership",
+          "type": "quantitative"
+        },
+        "color": {
+          "field": "mode",
+          "type": "nominal",
+          "legend": null
+        },
+        "opacity": {
+          "condition": {
+            "param": "ModeHover",
+            "value": 1.0,
+            "empty": false
+          },
+          "value": 0.2
+        },
+        "tooltip": [
+          {
+            "field": "mode",
+            "title": "Mode"
+          },
+          {
+            "field": "month_date",
+            "type": "temporal",
+            "timeUnit": "yearmonth",
+            "title": "Month"
+          },
+          {
+            "field": "average_ridership",
+            "type": "quantitative",
+            "format": ",",
+            "title": "Avg daily riders"
+          }
+        ]
+      }
+    }
+  ],
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "legend": {
+      "columns": 2
+    }
+  }
+}

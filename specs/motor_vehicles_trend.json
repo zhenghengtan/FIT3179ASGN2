@@ -1,0 +1,161 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Stacked area chart for Malaysia's registered motor vehicles by category.",
+  "width": "container",
+  "height": 360,
+  "data": {
+    "url": "data/motor_vehicles_trend.json"
+  },
+  "params": [
+    {
+      "name": "NormalizeShare",
+      "value": false,
+      "bind": {
+        "input": "checkbox",
+        "name": "Show normalized share "
+      }
+    }
+  ],
+  "transform": [
+    {
+      "calculate": "toNumber(datum.year)",
+      "as": "year_num"
+    },
+    {
+      "joinaggregate": [
+        {
+          "op": "sum",
+          "field": "count",
+          "as": "year_total"
+        }
+      ],
+      "groupby": [
+        "year_num"
+      ]
+    },
+    {
+      "calculate": "datum.year_total === 0 ? 0 : datum.count / datum.year_total",
+      "as": "share"
+    }
+  ],
+  "layer": [
+    {
+      "transform": [
+        {
+          "filter": "!NormalizeShare"
+        }
+      ],
+      "mark": {
+        "type": "area",
+        "interpolate": "monotone"
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "ordinal",
+          "title": "Year",
+          "sort": "ascending"
+        },
+        "y": {
+          "field": "count",
+          "type": "quantitative",
+          "title": "Registered vehicles"
+        },
+        "color": {
+          "field": "vehicle_type",
+          "title": "Vehicle category"
+        },
+        "tooltip": [
+          {
+            "field": "year",
+            "type": "ordinal",
+            "title": "Year"
+          },
+          {
+            "field": "vehicle_type",
+            "title": "Vehicle category"
+          },
+          {
+            "field": "count",
+            "type": "quantitative",
+            "format": ",",
+            "title": "Registrations"
+          },
+          {
+            "field": "share",
+            "type": "quantitative",
+            "format": ".1%",
+            "title": "Share"
+          }
+        ]
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "NormalizeShare"
+        }
+      ],
+      "mark": {
+        "type": "area",
+        "interpolate": "monotone"
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "ordinal",
+          "title": "Year",
+          "sort": "ascending"
+        },
+        "y": {
+          "field": "share",
+          "type": "quantitative",
+          "stack": "zero",
+          "title": "Share of registrations",
+          "scale": {
+            "domain": [
+              0,
+              1
+            ]
+          }
+        },
+        "color": {
+          "field": "vehicle_type",
+          "title": "Vehicle category"
+        },
+        "tooltip": [
+          {
+            "field": "year",
+            "type": "ordinal",
+            "title": "Year"
+          },
+          {
+            "field": "vehicle_type",
+            "title": "Vehicle category"
+          },
+          {
+            "field": "count",
+            "type": "quantitative",
+            "format": ",",
+            "title": "Registrations"
+          },
+          {
+            "field": "share",
+            "type": "quantitative",
+            "format": ".1%",
+            "title": "Share"
+          }
+        ]
+      }
+    }
+  ],
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "legend": {
+      "orient": "bottom",
+      "columns": 3
+    }
+  }
+}

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Malaysia Mobility Insights Dashboard</title>
+    <link rel="stylesheet" href="styles/ampang_dashboard.css" />
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+  </head>
+  <body>
+    <main class="layout">
+      <h1>Malaysia Mobility Insights Dashboard</h1>
+      <p>
+        Explore state-level bus terminal coverage, long-term vehicle
+        registrations, rail ridership momentum, and drill into LRT Ampang fare
+        patterns—all in one place.
+      </p>
+      <section class="panel panel--wide panel--tall">
+        <h2 class="panel__title">Bus Terminal Density Across Malaysia</h2>
+        <div class="panel__chart">
+          <div id="chart-bus-map" class="chart-wrapper"></div>
+        </div>
+      </section>
+
+      <section class="panel panel--wide">
+        <h2 class="panel__title">Registered Vehicles by Category (2000-2021)</h2>
+        <div class="panel__chart">
+          <div id="chart-vehicles" class="chart-wrapper"></div>
+        </div>
+      </section>
+
+      <section class="panel panel--wide">
+        <h2 class="panel__title">Rail Ridership Momentum</h2>
+        <div class="panel__chart">
+          <div id="chart-ridership" class="chart-wrapper"></div>
+        </div>
+      </section>
+
+      <section class="panel panel--wide panel--tall">
+        <h2 class="panel__title">Network Fare Heatmap</h2>
+        <div class="panel__chart">
+          <div id="chart-heatmap" class="chart-wrapper"></div>
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2 class="panel__title">High-Cost Origin Distributions</h2>
+        <div class="panel__chart">
+          <div id="chart-density" class="chart-wrapper"></div>
+        </div>
+      </section>
+
+      <section class="panel panel--wide panel--tall">
+        <h2 class="panel__title">Fare Profile Facets</h2>
+        <div class="panel__chart">
+          <div id="chart-facets" class="chart-wrapper"></div>
+        </div>
+      </section>
+
+      <section class="attribution">
+        <span>Data source: Domestic bus terminals, vehicle registrations, ridership headlines, and LRT fare matrix.</span>
+        <span>
+          Built with <a href="https://vega.github.io/vega-lite/" target="_blank" rel="noreferrer noopener">Vega-Lite</a>.
+        </span>
+      </section>
+    </main>
+    <script type="module">
+      const charts = [
+        { selector: "#chart-bus-map", spec: "specs/state_bus_map.json" },
+        { selector: "#chart-vehicles", spec: "specs/motor_vehicles_trend.json" },
+        { selector: "#chart-ridership", spec: "specs/rail_ridership_trends.json" },
+        { selector: "#chart-heatmap", spec: "specs/fare_heatmap.json" },
+        { selector: "#chart-density", spec: "specs/fare_density_ridgeline.json" },
+        { selector: "#chart-facets", spec: "specs/fare_metric_facets.json" }
+      ];
+
+      charts.forEach(({ selector, spec }) => {
+        const container = document.querySelector(selector);
+        if (!container) return;
+        vegaEmbed(container, spec, { actions: false, renderer: "canvas" }).catch(
+          (error) => {
+            console.error(`Failed to render ${spec}`, error);
+            container.innerHTML =
+              "<p class='error'>Unable to load visualization.</p>";
+          }
+        );
+      });
+    </script>
+  </body>
+</html>

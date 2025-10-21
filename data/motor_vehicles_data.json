@@ -1,0 +1,662 @@
+[
+  {
+    "year": 2000,
+    "vehicle_type": "Buses",
+    "count": 42447
+  },
+  {
+    "year": 2001,
+    "vehicle_type": "Buses",
+    "count": 43099
+  },
+  {
+    "year": 2002,
+    "vehicle_type": "Buses",
+    "count": 44018
+  },
+  {
+    "year": 2003,
+    "vehicle_type": "Buses",
+    "count": 45032
+  },
+  {
+    "year": 2004,
+    "vehicle_type": "Buses",
+    "count": 46322
+  },
+  {
+    "year": 2005,
+    "vehicle_type": "Buses",
+    "count": 47890
+  },
+  {
+    "year": 2006,
+    "vehicle_type": "Buses",
+    "count": 49929
+  },
+  {
+    "year": 2007,
+    "vehicle_type": "Buses",
+    "count": 51738
+  },
+  {
+    "year": 2008,
+    "vehicle_type": "Buses",
+    "count": 53075
+  },
+  {
+    "year": 2009,
+    "vehicle_type": "Buses",
+    "count": 55039
+  },
+  {
+    "year": 2010,
+    "vehicle_type": "Buses",
+    "count": 57106
+  },
+  {
+    "year": 2011,
+    "vehicle_type": "Buses",
+    "count": 59511
+  },
+  {
+    "year": 2012,
+    "vehicle_type": "Buses",
+    "count": 60951
+  },
+  {
+    "year": 2013,
+    "vehicle_type": "Buses",
+    "count": 62784
+  },
+  {
+    "year": 2014,
+    "vehicle_type": "Buses",
+    "count": 0
+  },
+  {
+    "year": 2015,
+    "vehicle_type": "Buses",
+    "count": 0
+  },
+  {
+    "year": 2016,
+    "vehicle_type": "Buses",
+    "count": 0
+  },
+  {
+    "year": 2017,
+    "vehicle_type": "Buses",
+    "count": 0
+  },
+  {
+    "year": 2018,
+    "vehicle_type": "Buses",
+    "count": 0
+  },
+  {
+    "year": 2019,
+    "vehicle_type": "Buses",
+    "count": 0
+  },
+  {
+    "year": 2020,
+    "vehicle_type": "Buses",
+    "count": 0
+  },
+  {
+    "year": 2021,
+    "vehicle_type": "Buses",
+    "count": 0
+  },
+  {
+    "year": 2000,
+    "vehicle_type": "Commercial vehicle",
+    "count": 652556
+  },
+  {
+    "year": 2001,
+    "vehicle_type": "Commercial vehicle",
+    "count": 678168
+  },
+  {
+    "year": 2002,
+    "vehicle_type": "Commercial vehicle",
+    "count": 703583
+  },
+  {
+    "year": 2003,
+    "vehicle_type": "Commercial vehicle",
+    "count": 733558
+  },
+  {
+    "year": 2004,
+    "vehicle_type": "Commercial vehicle",
+    "count": 766727
+  },
+  {
+    "year": 2005,
+    "vehicle_type": "Commercial vehicle",
+    "count": 800259
+  },
+  {
+    "year": 2006,
+    "vehicle_type": "Commercial vehicle",
+    "count": 835936
+  },
+  {
+    "year": 2007,
+    "vehicle_type": "Commercial vehicle",
+    "count": 875591
+  },
+  {
+    "year": 2008,
+    "vehicle_type": "Commercial vehicle",
+    "count": 919324
+  },
+  {
+    "year": 2009,
+    "vehicle_type": "Commercial vehicle",
+    "count": 954055
+  },
+  {
+    "year": 2010,
+    "vehicle_type": "Commercial vehicle",
+    "count": 994942
+  },
+  {
+    "year": 2011,
+    "vehicle_type": "Commercial vehicle",
+    "count": 1034660
+  },
+  {
+    "year": 2012,
+    "vehicle_type": "Commercial vehicle",
+    "count": 1075402
+  },
+  {
+    "year": 2013,
+    "vehicle_type": "Commercial vehicle",
+    "count": 1116167
+  },
+  {
+    "year": 2014,
+    "vehicle_type": "Commercial vehicle",
+    "count": 1159872
+  },
+  {
+    "year": 2015,
+    "vehicle_type": "Commercial vehicle",
+    "count": 1197987
+  },
+  {
+    "year": 2016,
+    "vehicle_type": "Commercial vehicle",
+    "count": 1190664
+  },
+  {
+    "year": 2017,
+    "vehicle_type": "Commercial vehicle",
+    "count": 1214844
+  },
+  {
+    "year": 2018,
+    "vehicle_type": "Commercial vehicle",
+    "count": 1259461
+  },
+  {
+    "year": 2019,
+    "vehicle_type": "Commercial vehicle",
+    "count": 1259461
+  },
+  {
+    "year": 2020,
+    "vehicle_type": "Commercial vehicle",
+    "count": 1316197
+  },
+  {
+    "year": 2021,
+    "vehicle_type": "Commercial vehicle",
+    "count": 1347466
+  },
+  {
+    "year": 2000,
+    "vehicle_type": "Motorcars",
+    "count": 3916137
+  },
+  {
+    "year": 2001,
+    "vehicle_type": "Motorcars",
+    "count": 4312028
+  },
+  {
+    "year": 2002,
+    "vehicle_type": "Motorcars",
+    "count": 4731741
+  },
+  {
+    "year": 2003,
+    "vehicle_type": "Motorcars",
+    "count": 5156494
+  },
+  {
+    "year": 2004,
+    "vehicle_type": "Motorcars",
+    "count": 5628610
+  },
+  {
+    "year": 2005,
+    "vehicle_type": "Motorcars",
+    "count": 6166510
+  },
+  {
+    "year": 2006,
+    "vehicle_type": "Motorcars",
+    "count": 6624804
+  },
+  {
+    "year": 2007,
+    "vehicle_type": "Motorcars",
+    "count": 7093316
+  },
+  {
+    "year": 2008,
+    "vehicle_type": "Motorcars",
+    "count": 7630408
+  },
+  {
+    "year": 2009,
+    "vehicle_type": "Motorcars",
+    "count": 8144362
+  },
+  {
+    "year": 2010,
+    "vehicle_type": "Motorcars",
+    "count": 8729666
+  },
+  {
+    "year": 2011,
+    "vehicle_type": "Motorcars",
+    "count": 9324276
+  },
+  {
+    "year": 2012,
+    "vehicle_type": "Motorcars",
+    "count": 9952515
+  },
+  {
+    "year": 2013,
+    "vehicle_type": "Motorcars",
+    "count": 10535575
+  },
+  {
+    "year": 2014,
+    "vehicle_type": "Motorcars",
+    "count": 11199910
+  },
+  {
+    "year": 2015,
+    "vehicle_type": "Motorcars",
+    "count": 12094790
+  },
+  {
+    "year": 2016,
+    "vehicle_type": "Motorcars",
+    "count": 13000358
+  },
+  {
+    "year": 2017,
+    "vehicle_type": "Motorcars",
+    "count": 12081093
+  },
+  {
+    "year": 2018,
+    "vehicle_type": "Motorcars",
+    "count": 14117537
+  },
+  {
+    "year": 2019,
+    "vehicle_type": "Motorcars",
+    "count": 14117537
+  },
+  {
+    "year": 2020,
+    "vehicle_type": "Motorcars",
+    "count": 14684580
+  },
+  {
+    "year": 2021,
+    "vehicle_type": "Motorcars",
+    "count": 15216589
+  },
+  {
+    "year": 2000,
+    "vehicle_type": "Motorcycles",
+    "count": 5392507
+  },
+  {
+    "year": 2001,
+    "vehicle_type": "Motorcycles",
+    "count": 5627258
+  },
+  {
+    "year": 2002,
+    "vehicle_type": "Motorcycles",
+    "count": 5849943
+  },
+  {
+    "year": 2003,
+    "vehicle_type": "Motorcycles",
+    "count": 6171177
+  },
+  {
+    "year": 2004,
+    "vehicle_type": "Motorcycles",
+    "count": 6569154
+  },
+  {
+    "year": 2005,
+    "vehicle_type": "Motorcycles",
+    "count": 6991409
+  },
+  {
+    "year": 2006,
+    "vehicle_type": "Motorcycles",
+    "count": 7440160
+  },
+  {
+    "year": 2007,
+    "vehicle_type": "Motorcycles",
+    "count": 7924758
+  },
+  {
+    "year": 2008,
+    "vehicle_type": "Motorcycles",
+    "count": 8467880
+  },
+  {
+    "year": 2009,
+    "vehicle_type": "Motorcycles",
+    "count": 8909425
+  },
+  {
+    "year": 2010,
+    "vehicle_type": "Motorcycles",
+    "count": 9407466
+  },
+  {
+    "year": 2011,
+    "vehicle_type": "Motorcycles",
+    "count": 9949774
+  },
+  {
+    "year": 2012,
+    "vehicle_type": "Motorcycles",
+    "count": 10559370
+  },
+  {
+    "year": 2013,
+    "vehicle_type": "Motorcycles",
+    "count": 11087878
+  },
+  {
+    "year": 2014,
+    "vehicle_type": "Motorcycles",
+    "count": 11629265
+  },
+  {
+    "year": 2015,
+    "vehicle_type": "Motorcycles",
+    "count": 11871696
+  },
+  {
+    "year": 2016,
+    "vehicle_type": "Motorcycles",
+    "count": 12677220
+  },
+  {
+    "year": 2017,
+    "vehicle_type": "Motorcycles",
+    "count": 12888820
+  },
+  {
+    "year": 2018,
+    "vehicle_type": "Motorcycles",
+    "count": 13726534
+  },
+  {
+    "year": 2019,
+    "vehicle_type": "Motorcycles",
+    "count": 13726534
+  },
+  {
+    "year": 2020,
+    "vehicle_type": "Motorcycles",
+    "count": 14515696
+  },
+  {
+    "year": 2021,
+    "vehicle_type": "Motorcycles",
+    "count": 14986834
+  },
+  {
+    "year": 2000,
+    "vehicle_type": "Other vehicles",
+    "count": 583062
+  },
+  {
+    "year": 2001,
+    "vehicle_type": "Other vehicles",
+    "count": 596928
+  },
+  {
+    "year": 2002,
+    "vehicle_type": "Other vehicles",
+    "count": 613696
+  },
+  {
+    "year": 2003,
+    "vehicle_type": "Other vehicles",
+    "count": 630737
+  },
+  {
+    "year": 2004,
+    "vehicle_type": "Other vehicles",
+    "count": 649005
+  },
+  {
+    "year": 2005,
+    "vehicle_type": "Other vehicles",
+    "count": 665445
+  },
+  {
+    "year": 2006,
+    "vehicle_type": "Other vehicles",
+    "count": 685146
+  },
+  {
+    "year": 2007,
+    "vehicle_type": "Other vehicles",
+    "count": 707028
+  },
+  {
+    "year": 2008,
+    "vehicle_type": "Other vehicles",
+    "count": 729971
+  },
+  {
+    "year": 2009,
+    "vehicle_type": "Other vehicles",
+    "count": 748893
+  },
+  {
+    "year": 2010,
+    "vehicle_type": "Other vehicles",
+    "count": 772363
+  },
+  {
+    "year": 2011,
+    "vehicle_type": "Other vehicles",
+    "count": 796806
+  },
+  {
+    "year": 2012,
+    "vehicle_type": "Other vehicles",
+    "count": 822224
+  },
+  {
+    "year": 2013,
+    "vehicle_type": "Other vehicles",
+    "count": 862977
+  },
+  {
+    "year": 2014,
+    "vehicle_type": "Other vehicles",
+    "count": 882467
+  },
+  {
+    "year": 2015,
+    "vehicle_type": "Other vehicles",
+    "count": 898446
+  },
+  {
+    "year": 2016,
+    "vehicle_type": "Other vehicles",
+    "count": 561028
+  },
+  {
+    "year": 2017,
+    "vehicle_type": "Other vehicles",
+    "count": 598934
+  },
+  {
+    "year": 2018,
+    "vehicle_type": "Other vehicles",
+    "count": 678760
+  },
+  {
+    "year": 2019,
+    "vehicle_type": "Other vehicles",
+    "count": 678760
+  },
+  {
+    "year": 2020,
+    "vehicle_type": "Other vehicles",
+    "count": 707436
+  },
+  {
+    "year": 2021,
+    "vehicle_type": "Other vehicles",
+    "count": 731349
+  },
+  {
+    "year": 2000,
+    "vehicle_type": "Taxis and hired cars",
+    "count": 60484
+  },
+  {
+    "year": 2001,
+    "vehicle_type": "Taxis and hired cars",
+    "count": 65001
+  },
+  {
+    "year": 2002,
+    "vehicle_type": "Taxis and hired cars",
+    "count": 70689
+  },
+  {
+    "year": 2003,
+    "vehicle_type": "Taxis and hired cars",
+    "count": 77462
+  },
+  {
+    "year": 2004,
+    "vehicle_type": "Taxis and hired cars",
+    "count": 87005
+  },
+  {
+    "year": 2005,
+    "vehicle_type": "Taxis and hired cars",
+    "count": 95418
+  },
+  {
+    "year": 2006,
+    "vehicle_type": "Taxis and hired cars",
+    "count": 102469
+  },
+  {
+    "year": 2007,
+    "vehicle_type": "Taxis and hired cars",
+    "count": 108352
+  },
+  {
+    "year": 2008,
+    "vehicle_type": "Taxis and hired cars",
+    "count": 116728
+  },
+  {
+    "year": 2009,
+    "vehicle_type": "Taxis and hired cars",
+    "count": 122973
+  },
+  {
+    "year": 2010,
+    "vehicle_type": "Taxis and hired cars",
+    "count": 131276
+  },
+  {
+    "year": 2011,
+    "vehicle_type": "Taxis and hired cars",
+    "count": 139791
+  },
+  {
+    "year": 2012,
+    "vehicle_type": "Taxis and hired cars",
+    "count": 146104
+  },
+  {
+    "year": 2013,
+    "vehicle_type": "Taxis and hired cars",
+    "count": 153875
+  },
+  {
+    "year": 2014,
+    "vehicle_type": "Taxis and hired cars",
+    "count": 229678
+  },
+  {
+    "year": 2015,
+    "vehicle_type": "Taxis and hired cars",
+    "count": 239033
+  },
+  {
+    "year": 2016,
+    "vehicle_type": "Taxis and hired cars",
+    "count": 183989
+  },
+  {
+    "year": 2017,
+    "vehicle_type": "Taxis and hired cars",
+    "count": 165489
+  },
+  {
+    "year": 2018,
+    "vehicle_type": "Taxis and hired cars",
+    "count": 173921
+  },
+  {
+    "year": 2019,
+    "vehicle_type": "Taxis and hired cars",
+    "count": 173921
+  },
+  {
+    "year": 2020,
+    "vehicle_type": "Taxis and hired cars",
+    "count": 171512
+  },
+  {
+    "year": 2021,
+    "vehicle_type": "Taxis and hired cars",
+    "count": 174059
+  }
+]

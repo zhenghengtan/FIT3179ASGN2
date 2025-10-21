@@ -1,0 +1,174 @@
+[
+  {
+    "state": "Johor",
+    "terminal_count": 22,
+    "sample_terminals": [
+      "Bandar Penawar Bus Terminal",
+      "Batu Pahat Bus Station",
+      "Hentian Putra Bus Terminal",
+      "JB Larkin Bus Terminal",
+      "Johor Jaya Bus Terminal"
+    ],
+    "latitude": 1.4847,
+    "longitude": 103.7618
+  },
+  {
+    "state": "Perak",
+    "terminal_count": 13,
+    "sample_terminals": [
+      "Batu Gajah Bus Terminal",
+      "Bidor Bus Terminal",
+      "Gerik Bus Terminal",
+      "Ipoh Amanjaya Bus Terminal",
+      "Kampar Bus Terminal"
+    ],
+    "latitude": 4.5921,
+    "longitude": 101.0901
+  },
+  {
+    "state": "Pahang",
+    "terminal_count": 12,
+    "sample_terminals": [
+      "Awana Bus Terminal",
+      "Bentong Bus Station",
+      "Jengka Sentral Bus Terminal",
+      "Kuala Lipis Bus Terminal",
+      "Kuala Rompin Bus Terminal"
+    ],
+    "latitude": 3.7956,
+    "longitude": 102.4381
+  },
+  {
+    "state": "Kelantan",
+    "terminal_count": 8,
+    "sample_terminals": [
+      "Jeli Express Bus Terminal",
+      "Kota Bahru Bus Terminal",
+      "SKMK Bachok Bus Station",
+      "SKMK Kuala Krai Bus Station",
+      "SKMK Machang Bus Station"
+    ],
+    "latitude": 5.2852,
+    "longitude": 102.003
+  },
+  {
+    "state": "Kuala Lumpur",
+    "terminal_count": 7,
+    "sample_terminals": [
+      "Berjaya Times Square Bus Stop",
+      "KL Sentral Bus Terminal",
+      "Pekeliling Bus Terminal",
+      "Pudu Sentral Bus Terminal",
+      "Terminal Bas Hentian Duta"
+    ],
+    "latitude": 3.139,
+    "longitude": 101.6869
+  },
+  {
+    "state": "Selangor",
+    "terminal_count": 7,
+    "sample_terminals": [
+      "KLIA/KLIA2 Bus Terminal",
+      "Kajang Bus Terminal",
+      "Klang Sentral Bus Terminal",
+      "One Utama Bus Station",
+      "Putrajaya Sentral Bus Terminal"
+    ],
+    "latitude": 3.0738,
+    "longitude": 101.5183
+  },
+  {
+    "state": "Kedah",
+    "terminal_count": 6,
+    "sample_terminals": [
+      "Alor Setar Bus Terminal",
+      "Baling Bus Station",
+      "Changlun Bus Terminal",
+      "Jitra Bus Station",
+      "Kulim Bus Terminal"
+    ],
+    "latitude": 6.1184,
+    "longitude": 100.3685
+  },
+  {
+    "state": "Terengganu",
+    "terminal_count": 6,
+    "sample_terminals": [
+      "Jerteh Bus Terminal",
+      "Kuala Berang Bus Station",
+      "Kuala Besut Bus Station",
+      "Kuala Terengganu Bus Terminal",
+      "Merang Waterfront Jetty Bus Terminal"
+    ],
+    "latitude": 5.329,
+    "longitude": 103.1412
+  },
+  {
+    "state": "Negeri Sembilan",
+    "terminal_count": 5,
+    "sample_terminals": [
+      "Bahau Bus Station",
+      "Gemas Bus Station",
+      "Kuala Pilah",
+      "Nilai Bus Terminal",
+      "Terminal One Seremban"
+    ],
+    "latitude": 2.7258,
+    "longitude": 102.14
+  },
+  {
+    "state": "Sarawak",
+    "terminal_count": 5,
+    "sample_terminals": [
+      "Bintulu Sentral Bus Terminal",
+      "Kuching Sentral Bus Terminal",
+      "Miri Express Bus Terminal",
+      "Sibu Bus Terminal",
+      "Terminal Bas Miri Sentral"
+    ],
+    "latitude": 1.5533,
+    "longitude": 110.3592
+  },
+  {
+    "state": "Penang",
+    "terminal_count": 4,
+    "sample_terminals": [
+      "Butterworth Bus Terminal",
+      "Jetty (Penang) Bus Station",
+      "Komtar Bus Terminal",
+      "Sungai Nibong Bus Terminal"
+    ],
+    "latitude": 5.4141,
+    "longitude": 100.329
+  },
+  {
+    "state": "Melaka",
+    "terminal_count": 2,
+    "sample_terminals": [
+      "Alor Gajah Bus Terminal",
+      "Melaka Sentral Bus Terminal"
+    ],
+    "latitude": 2.1896,
+    "longitude": 102.2501
+  },
+  {
+    "state": "Perlis",
+    "terminal_count": 2,
+    "sample_terminals": [
+      "Kuala Perlis Bus Terminal",
+      "Terminal Bas Kangar"
+    ],
+    "latitude": 6.444,
+    "longitude": 100.204
+  },
+  {
+    "state": "Sabah",
+    "terminal_count": 2,
+    "sample_terminals": [
+      "Inanam Bus Terminal",
+      "Kota Kinabalu Sentral"
+    ],
+    "latitude": 5.9788,
+    "longitude": 116.0753
+  }
+]

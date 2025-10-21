@@ -1,0 +1,73 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Interactive geographic map of Ampang LRT stations (real lat/long with hover labels).",
+  "width": "container",
+  "height": 560,
+  "background": "#0b0b0c",
+  "projection": {
+    "type": "mercator",
+    "center": [101.71, 3.12],
+    "scale": 65000
+  },
+  "config": {
+    "view": {"stroke": null},
+    "axis": {"labelColor": "#cfcfd6", "titleColor": "#d9d9e0"},
+    "legend": {"labelColor": "#cfcfd6", "titleColor": "#d9d9e0"}
+  },
+  "layer": [
+    {
+      "data": {"sphere": {}},
+      "mark": {"type": "geoshape", "fill": "#0e0f12", "stroke": "#1b1c22", "strokeWidth": 0.5}
+    },
+    {
+      "data": {"graticule": {"step": [0.25, 0.25]}},
+      "mark": {"type": "geoshape", "stroke": "#1a1b22", "strokeWidth": 0.4}
+    },
+    {
+      "data": {"url": "data/ampang_station_locations.json"},
+      "mark": {"type": "line", "strokeWidth": 3, "opacity": 0.9, "color": "#b8860b"},
+      "encoding": {
+        "longitude": {"field": "longitude", "type": "quantitative"},
+        "latitude": {"field": "latitude", "type": "quantitative"},
+        "order": {"field": "order", "type": "quantitative"}
+      }
+    },
+    {
+      "data": {"url": "data/ampang_station_locations.json"},
+      "params": [
+        {
+          "name": "hoverStation",
+          "select": {"type": "point", "fields": ["station"], "on": "pointerover", "clear": "pointerout"}
+        }
+      ],
+      "mark": {"type": "circle", "tooltip": true},
+      "encoding": {
+        "longitude": {"field": "longitude", "type": "quantitative"},
+        "latitude": {"field": "latitude", "type": "quantitative"},
+        "size": {"value": 110},
+        "opacity": {"condition": {"param": "hoverStation", "empty": false, "value": 1.0}, "value": 0.95},
+        "stroke": {"value": "#ffffff"},
+        "strokeWidth": {"condition": {"param": "hoverStation", "empty": false, "value": 2.2}, "value": 1.1},
+        "color": {
+          "condition": [{"param": "hoverStation", "empty": false, "value": "#ef8354"}],
+          "value": "#4aa5bf"
+        },
+        "tooltip": [
+          {"field": "station", "title": "Station"},
+          {"field": "latitude", "type": "quantitative", "format": ".5f"},
+          {"field": "longitude", "type": "quantitative", "format": ".5f"}
+        ]
+      }
+    },
+    {
+      "data": {"url": "data/ampang_station_locations.json"},
+      "transform": [{"filter": {"param": "hoverStation"}}],
+      "mark": {"type": "text", "dy": -12, "fontSize": 12, "fontWeight": "bold", "fill": "#e9e9ee"},
+      "encoding": {
+        "longitude": {"field": "longitude", "type": "quantitative"},
+        "latitude": {"field": "latitude", "type": "quantitative"},
+        "text": {"field": "station"}
+      }
+    }
+  ]
+}

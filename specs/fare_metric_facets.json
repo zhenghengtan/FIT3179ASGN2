@@ -1,0 +1,195 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Facet view comparing average, maximum and variability of fares by origin station.",
+  "width": 720,
+  "data": {
+    "url": "data/fare_long.csv"
+  },
+  "params": [
+    {
+      "name": "MetricLimit",
+      "value": 10,
+      "bind": {
+        "input": "range",
+        "name": "Show top N: ",
+        "min": 3,
+        "max": 20,
+        "step": 1
+      }
+    },
+    {
+      "name": "SearchTerm",
+      "value": "",
+      "bind": {
+        "input": "text",
+        "name": "Filter origin: "
+      }
+    },
+    {
+      "name": "OriginSelect",
+      "select": {
+        "type": "point",
+        "fields": [
+          "origin"
+        ]
+      }
+    }
+  ],
+  "transform": [
+    {
+      "aggregate": [
+        {
+          "op": "mean",
+          "field": "fare",
+          "as": "avgFare"
+        },
+        {
+          "op": "max",
+          "field": "fare",
+          "as": "maxFare"
+        },
+        {
+          "op": "stdev",
+          "field": "fare",
+          "as": "stdevFare"
+        },
+        {
+          "op": "min",
+          "field": "fare",
+          "as": "minFare"
+        }
+      ],
+      "groupby": [
+        "origin"
+      ]
+    },
+    {
+      "calculate": "lower(datum.origin)",
+      "as": "origin_lower"
+    },
+    {
+      "filter": "SearchTerm == '' || indexof(datum.origin_lower, lower(SearchTerm)) >= 0"
+    },
+    {
+      "fold": [
+        "avgFare",
+        "maxFare",
+        "stdevFare"
+      ],
+      "as": [
+        "metric",
+        "value"
+      ]
+    },
+    {
+      "window": [
+        {
+          "op": "rank",
+          "as": "metricRank"
+        }
+      ],
+      "sort": [
+        {
+          "field": "value",
+          "order": "descending"
+        }
+      ],
+      "groupby": [
+        "metric"
+      ]
+    },
+    {
+      "filter": "datum.metricRank <= MetricLimit"
+    }
+  ],
+  "facet": {
+    "column": {
+      "field": "metric",
+      "type": "nominal",
+      "title": null,
+      "sort": [
+        "avgFare",
+        "maxFare",
+        "stdevFare"
+      ],
+      "header": {
+        "labelExpr": "datum.label === 'avgFare' ? 'Average fare (RM)' : datum.label === 'maxFare' ? 'Maximum fare (RM)' : 'Fare variability (RM)'",
+        "labelFontSize": 12
+      }
+    }
+  },
+  "spec": {
+    "width": 220,
+    "height": 320,
+    "mark": {
+      "type": "bar",
+      "cornerRadiusEnd": 3
+    },
+    "encoding": {
+      "y": {
+        "field": "origin",
+        "type": "ordinal",
+        "sort": {
+          "field": "value",
+          "order": "descending"
+        },
+        "title": null
+      },
+      "x": {
+        "field": "value",
+        "type": "quantitative",
+        "title": "RM"
+      },
+      "color": {
+        "condition": {
+          "param": "OriginSelect",
+          "empty": false,
+          "field": "origin",
+          "type": "nominal",
+          "scale": {
+            "scheme": "tableau20"
+          }
+        },
+        "value": "#74a9cf"
+      },
+      "opacity": {
+        "condition": {
+          "param": "OriginSelect",
+          "empty": false,
+          "value": 1.0
+        },
+        "value": 0.8
+      },
+      "tooltip": [
+        {
+          "field": "origin",
+          "title": "Origin"
+        },
+        {
+          "field": "metric",
+          "title": "Metric"
+        },
+        {
+          "field": "value",
+          "type": "quantitative",
+          "format": ".2f",
+          "title": "Metric value (RM)"
+        },
+        {
+          "field": "minFare",
+          "type": "quantitative",
+          "format": ".2f",
+          "title": "Minimum fare (RM)"
+        }
+      ]
+    }
+  },
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFontSize": 11
+    }
+  }
+}

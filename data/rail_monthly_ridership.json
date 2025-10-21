@@ -1,0 +1,3422 @@
+[
+  {
+    "month": "2020-01",
+    "mode": "ETS",
+    "average_ridership": 1311
+  },
+  {
+    "month": "2020-02",
+    "mode": "ETS",
+    "average_ridership": 1168
+  },
+  {
+    "month": "2020-03",
+    "mode": "ETS",
+    "average_ridership": 1083
+  },
+  {
+    "month": "2020-04",
+    "mode": "ETS",
+    "average_ridership": 1219
+  },
+  {
+    "month": "2020-05",
+    "mode": "ETS",
+    "average_ridership": 1348
+  },
+  {
+    "month": "2020-06",
+    "mode": "ETS",
+    "average_ridership": 1454
+  },
+  {
+    "month": "2020-07",
+    "mode": "ETS",
+    "average_ridership": 1782
+  },
+  {
+    "month": "2020-08",
+    "mode": "ETS",
+    "average_ridership": 1960
+  },
+  {
+    "month": "2020-09",
+    "mode": "ETS",
+    "average_ridership": 1825
+  },
+  {
+    "month": "2020-10",
+    "mode": "ETS",
+    "average_ridership": 1087
+  },
+  {
+    "month": "2020-11",
+    "mode": "ETS",
+    "average_ridership": 1289
+  },
+  {
+    "month": "2020-12",
+    "mode": "ETS",
+    "average_ridership": 4226
+  },
+  {
+    "month": "2021-01",
+    "mode": "ETS",
+    "average_ridership": 1071
+  },
+  {
+    "month": "2021-02",
+    "mode": "ETS",
+    "average_ridership": 1394
+  },
+  {
+    "month": "2021-03",
+    "mode": "ETS",
+    "average_ridership": 2047
+  },
+  {
+    "month": "2021-04",
+    "mode": "ETS",
+    "average_ridership": 1847
+  },
+  {
+    "month": "2021-05",
+    "mode": "ETS",
+    "average_ridership": 1213
+  },
+  {
+    "month": "2021-06",
+    "mode": "ETS",
+    "average_ridership": 731
+  },
+  {
+    "month": "2021-07",
+    "mode": "ETS",
+    "average_ridership": 723
+  },
+  {
+    "month": "2021-08",
+    "mode": "ETS",
+    "average_ridership": 766
+  },
+  {
+    "month": "2021-09",
+    "mode": "ETS",
+    "average_ridership": 873
+  },
+  {
+    "month": "2021-10",
+    "mode": "ETS",
+    "average_ridership": 2453
+  },
+  {
+    "month": "2021-11",
+    "mode": "ETS",
+    "average_ridership": 3234
+  },
+  {
+    "month": "2021-12",
+    "mode": "ETS",
+    "average_ridership": 4462
+  },
+  {
+    "month": "2022-01",
+    "mode": "ETS",
+    "average_ridership": 7065
+  },
+  {
+    "month": "2022-02",
+    "mode": "ETS",
+    "average_ridership": 6983
+  },
+  {
+    "month": "2022-03",
+    "mode": "ETS",
+    "average_ridership": 7626
+  },
+  {
+    "month": "2022-04",
+    "mode": "ETS",
+    "average_ridership": 8328
+  },
+  {
+    "month": "2022-05",
+    "mode": "ETS",
+    "average_ridership": 9215
+  },
+  {
+    "month": "2022-06",
+    "mode": "ETS",
+    "average_ridership": 9356
+  },
+  {
+    "month": "2022-07",
+    "mode": "ETS",
+    "average_ridership": 9631
+  },
+  {
+    "month": "2022-08",
+    "mode": "ETS",
+    "average_ridership": 9610
+  },
+  {
+    "month": "2022-09",
+    "mode": "ETS",
+    "average_ridership": 9569
+  },
+  {
+    "month": "2022-10",
+    "mode": "ETS",
+    "average_ridership": 10391
+  },
+  {
+    "month": "2022-11",
+    "mode": "ETS",
+    "average_ridership": 10626
+  },
+  {
+    "month": "2022-12",
+    "mode": "ETS",
+    "average_ridership": 11192
+  },
+  {
+    "month": "2023-01",
+    "mode": "ETS",
+    "average_ridership": 11654
+  },
+  {
+    "month": "2023-02",
+    "mode": "ETS",
+    "average_ridership": 11626
+  },
+  {
+    "month": "2023-03",
+    "mode": "ETS",
+    "average_ridership": 11014
+  },
+  {
+    "month": "2023-04",
+    "mode": "ETS",
+    "average_ridership": 11897
+  },
+  {
+    "month": "2023-05",
+    "mode": "ETS",
+    "average_ridership": 10839
+  },
+  {
+    "month": "2023-06",
+    "mode": "ETS",
+    "average_ridership": 11126
+  },
+  {
+    "month": "2023-07",
+    "mode": "ETS",
+    "average_ridership": 11188
+  },
+  {
+    "month": "2023-08",
+    "mode": "ETS",
+    "average_ridership": 11236
+  },
+  {
+    "month": "2023-09",
+    "mode": "ETS",
+    "average_ridership": 10968
+  },
+  {
+    "month": "2023-10",
+    "mode": "ETS",
+    "average_ridership": 10870
+  },
+  {
+    "month": "2023-11",
+    "mode": "ETS",
+    "average_ridership": 11034
+  },
+  {
+    "month": "2023-12",
+    "mode": "ETS",
+    "average_ridership": 11868
+  },
+  {
+    "month": "2024-01",
+    "mode": "ETS",
+    "average_ridership": 11071
+  },
+  {
+    "month": "2024-02",
+    "mode": "ETS",
+    "average_ridership": 12030
+  },
+  {
+    "month": "2024-03",
+    "mode": "ETS",
+    "average_ridership": 10498
+  },
+  {
+    "month": "2024-04",
+    "mode": "ETS",
+    "average_ridership": 11179
+  },
+  {
+    "month": "2024-05",
+    "mode": "ETS",
+    "average_ridership": 11519
+  },
+  {
+    "month": "2024-06",
+    "mode": "ETS",
+    "average_ridership": 11785
+  },
+  {
+    "month": "2024-07",
+    "mode": "ETS",
+    "average_ridership": 11208
+  },
+  {
+    "month": "2024-08",
+    "mode": "ETS",
+    "average_ridership": 10996
+  },
+  {
+    "month": "2024-09",
+    "mode": "ETS",
+    "average_ridership": 11606
+  },
+  {
+    "month": "2024-10",
+    "mode": "ETS",
+    "average_ridership": 11026
+  },
+  {
+    "month": "2024-11",
+    "mode": "ETS",
+    "average_ridership": 11221
+  },
+  {
+    "month": "2024-12",
+    "mode": "ETS",
+    "average_ridership": 11829
+  },
+  {
+    "month": "2025-01",
+    "mode": "ETS",
+    "average_ridership": 11957
+  },
+  {
+    "month": "2025-02",
+    "mode": "ETS",
+    "average_ridership": 11350
+  },
+  {
+    "month": "2025-03",
+    "mode": "ETS",
+    "average_ridership": 11072
+  },
+  {
+    "month": "2025-04",
+    "mode": "ETS",
+    "average_ridership": 10943
+  },
+  {
+    "month": "2025-05",
+    "mode": "ETS",
+    "average_ridership": 10944
+  },
+  {
+    "month": "2025-06",
+    "mode": "ETS",
+    "average_ridership": 11285
+  },
+  {
+    "month": "2025-07",
+    "mode": "ETS",
+    "average_ridership": 11137
+  },
+  {
+    "month": "2025-08",
+    "mode": "ETS",
+    "average_ridership": 11114
+  },
+  {
+    "month": "2025-09",
+    "mode": "ETS",
+    "average_ridership": 11664
+  },
+  {
+    "month": "2025-10",
+    "mode": "ETS",
+    "average_ridership": 10994
+  },
+  {
+    "month": "2025-11",
+    "mode": "ETS",
+    "average_ridership": 10900
+  },
+  {
+    "month": "2025-12",
+    "mode": "ETS",
+    "average_ridership": 11016
+  },
+  {
+    "month": "2020-01",
+    "mode": "Intercity",
+    "average_ridership": 856
+  },
+  {
+    "month": "2020-02",
+    "mode": "Intercity",
+    "average_ridership": 686
+  },
+  {
+    "month": "2020-03",
+    "mode": "Intercity",
+    "average_ridership": 664
+  },
+  {
+    "month": "2020-04",
+    "mode": "Intercity",
+    "average_ridership": 638
+  },
+  {
+    "month": "2020-05",
+    "mode": "Intercity",
+    "average_ridership": 790
+  },
+  {
+    "month": "2020-06",
+    "mode": "Intercity",
+    "average_ridership": 1184
+  },
+  {
+    "month": "2020-07",
+    "mode": "Intercity",
+    "average_ridership": 1543
+  },
+  {
+    "month": "2020-08",
+    "mode": "Intercity",
+    "average_ridership": 1114
+  },
+  {
+    "month": "2020-09",
+    "mode": "Intercity",
+    "average_ridership": 891
+  },
+  {
+    "month": "2020-10",
+    "mode": "Intercity",
+    "average_ridership": 1277
+  },
+  {
+    "month": "2020-11",
+    "mode": "Intercity",
+    "average_ridership": 666
+  },
+  {
+    "month": "2020-12",
+    "mode": "Intercity",
+    "average_ridership": 1226
+  },
+  {
+    "month": "2021-01",
+    "mode": "Intercity",
+    "average_ridership": 393
+  },
+  {
+    "month": "2021-02",
+    "mode": "Intercity",
+    "average_ridership": 536
+  },
+  {
+    "month": "2021-03",
+    "mode": "Intercity",
+    "average_ridership": 1044
+  },
+  {
+    "month": "2021-04",
+    "mode": "Intercity",
+    "average_ridership": 645
+  },
+  {
+    "month": "2021-05",
+    "mode": "Intercity",
+    "average_ridership": 522
+  },
+  {
+    "month": "2021-06",
+    "mode": "Intercity",
+    "average_ridership": 392
+  },
+  {
+    "month": "2021-07",
+    "mode": "Intercity",
+    "average_ridership": 343
+  },
+  {
+    "month": "2021-08",
+    "mode": "Intercity",
+    "average_ridership": 380
+  },
+  {
+    "month": "2021-09",
+    "mode": "Intercity",
+    "average_ridership": 644
+  },
+  {
+    "month": "2021-10",
+    "mode": "Intercity",
+    "average_ridership": 1741
+  },
+  {
+    "month": "2021-11",
+    "mode": "Intercity",
+    "average_ridership": 1498
+  },
+  {
+    "month": "2021-12",
+    "mode": "Intercity",
+    "average_ridership": 1838
+  },
+  {
+    "month": "2022-01",
+    "mode": "Intercity",
+    "average_ridership": 2432
+  },
+  {
+    "month": "2022-02",
+    "mode": "Intercity",
+    "average_ridership": 2306
+  },
+  {
+    "month": "2022-03",
+    "mode": "Intercity",
+    "average_ridership": 2648
+  },
+  {
+    "month": "2022-04",
+    "mode": "Intercity",
+    "average_ridership": 2214
+  },
+  {
+    "month": "2022-05",
+    "mode": "Intercity",
+    "average_ridership": 3035
+  },
+  {
+    "month": "2022-06",
+    "mode": "Intercity",
+    "average_ridership": 3272
+  },
+  {
+    "month": "2022-07",
+    "mode": "Intercity",
+    "average_ridership": 3723
+  },
+  {
+    "month": "2022-08",
+    "mode": "Intercity",
+    "average_ridership": 3562
+  },
+  {
+    "month": "2022-09",
+    "mode": "Intercity",
+    "average_ridership": 3777
+  },
+  {
+    "month": "2022-10",
+    "mode": "Intercity",
+    "average_ridership": 4049
+  },
+  {
+    "month": "2022-11",
+    "mode": "Intercity",
+    "average_ridership": 3583
+  },
+  {
+    "month": "2022-12",
+    "mode": "Intercity",
+    "average_ridership": 4347
+  },
+  {
+    "month": "2023-01",
+    "mode": "Intercity",
+    "average_ridership": 4379
+  },
+  {
+    "month": "2023-02",
+    "mode": "Intercity",
+    "average_ridership": 4380
+  },
+  {
+    "month": "2023-03",
+    "mode": "Intercity",
+    "average_ridership": 3550
+  },
+  {
+    "month": "2023-04",
+    "mode": "Intercity",
+    "average_ridership": 4083
+  },
+  {
+    "month": "2023-05",
+    "mode": "Intercity",
+    "average_ridership": 3886
+  },
+  {
+    "month": "2023-06",
+    "mode": "Intercity",
+    "average_ridership": 3539
+  },
+  {
+    "month": "2023-07",
+    "mode": "Intercity",
+    "average_ridership": 3782
+  },
+  {
+    "month": "2023-08",
+    "mode": "Intercity",
+    "average_ridership": 4241
+  },
+  {
+    "month": "2023-09",
+    "mode": "Intercity",
+    "average_ridership": 4155
+  },
+  {
+    "month": "2023-10",
+    "mode": "Intercity",
+    "average_ridership": 3894
+  },
+  {
+    "month": "2023-11",
+    "mode": "Intercity",
+    "average_ridership": 3812
+  },
+  {
+    "month": "2023-12",
+    "mode": "Intercity",
+    "average_ridership": 4739
+  },
+  {
+    "month": "2024-01",
+    "mode": "Intercity",
+    "average_ridership": 3799
+  },
+  {
+    "month": "2024-02",
+    "mode": "Intercity",
+    "average_ridership": 4837
+  },
+  {
+    "month": "2024-03",
+    "mode": "Intercity",
+    "average_ridership": 3092
+  },
+  {
+    "month": "2024-04",
+    "mode": "Intercity",
+    "average_ridership": 3613
+  },
+  {
+    "month": "2024-05",
+    "mode": "Intercity",
+    "average_ridership": 4176
+  },
+  {
+    "month": "2024-06",
+    "mode": "Intercity",
+    "average_ridership": 4276
+  },
+  {
+    "month": "2024-07",
+    "mode": "Intercity",
+    "average_ridership": 4007
+  },
+  {
+    "month": "2024-08",
+    "mode": "Intercity",
+    "average_ridership": 4110
+  },
+  {
+    "month": "2024-09",
+    "mode": "Intercity",
+    "average_ridership": 4887
+  },
+  {
+    "month": "2024-10",
+    "mode": "Intercity",
+    "average_ridership": 4088
+  },
+  {
+    "month": "2024-11",
+    "mode": "Intercity",
+    "average_ridership": 3729
+  },
+  {
+    "month": "2024-12",
+    "mode": "Intercity",
+    "average_ridership": 4417
+  },
+  {
+    "month": "2025-01",
+    "mode": "Intercity",
+    "average_ridership": 4811
+  },
+  {
+    "month": "2025-02",
+    "mode": "Intercity",
+    "average_ridership": 3853
+  },
+  {
+    "month": "2025-03",
+    "mode": "Intercity",
+    "average_ridership": 3558
+  },
+  {
+    "month": "2025-04",
+    "mode": "Intercity",
+    "average_ridership": 3675
+  },
+  {
+    "month": "2025-05",
+    "mode": "Intercity",
+    "average_ridership": 3860
+  },
+  {
+    "month": "2025-06",
+    "mode": "Intercity",
+    "average_ridership": 4001
+  },
+  {
+    "month": "2025-07",
+    "mode": "Intercity",
+    "average_ridership": 3730
+  },
+  {
+    "month": "2025-08",
+    "mode": "Intercity",
+    "average_ridership": 4024
+  },
+  {
+    "month": "2025-09",
+    "mode": "Intercity",
+    "average_ridership": 4987
+  },
+  {
+    "month": "2025-10",
+    "mode": "Intercity",
+    "average_ridership": 3777
+  },
+  {
+    "month": "2025-11",
+    "mode": "Intercity",
+    "average_ridership": 3900
+  },
+  {
+    "month": "2025-12",
+    "mode": "Intercity",
+    "average_ridership": 4220
+  },
+  {
+    "month": "2019-01",
+    "mode": "KL Monorail",
+    "average_ridership": 32724
+  },
+  {
+    "month": "2019-02",
+    "mode": "KL Monorail",
+    "average_ridership": 32695
+  },
+  {
+    "month": "2019-03",
+    "mode": "KL Monorail",
+    "average_ridership": 33149
+  },
+  {
+    "month": "2019-04",
+    "mode": "KL Monorail",
+    "average_ridership": 34067
+  },
+  {
+    "month": "2019-05",
+    "mode": "KL Monorail",
+    "average_ridership": 31743
+  },
+  {
+    "month": "2019-06",
+    "mode": "KL Monorail",
+    "average_ridership": 32505
+  },
+  {
+    "month": "2019-07",
+    "mode": "KL Monorail",
+    "average_ridership": 33050
+  },
+  {
+    "month": "2019-08",
+    "mode": "KL Monorail",
+    "average_ridership": 34604
+  },
+  {
+    "month": "2019-09",
+    "mode": "KL Monorail",
+    "average_ridership": 33453
+  },
+  {
+    "month": "2019-10",
+    "mode": "KL Monorail",
+    "average_ridership": 35485
+  },
+  {
+    "month": "2019-11",
+    "mode": "KL Monorail",
+    "average_ridership": 38185
+  },
+  {
+    "month": "2019-12",
+    "mode": "KL Monorail",
+    "average_ridership": 40341
+  },
+  {
+    "month": "2020-01",
+    "mode": "KL Monorail",
+    "average_ridership": 31515
+  },
+  {
+    "month": "2020-02",
+    "mode": "KL Monorail",
+    "average_ridership": 30747
+  },
+  {
+    "month": "2020-03",
+    "mode": "KL Monorail",
+    "average_ridership": 14389
+  },
+  {
+    "month": "2020-04",
+    "mode": "KL Monorail",
+    "average_ridership": 9854
+  },
+  {
+    "month": "2020-05",
+    "mode": "KL Monorail",
+    "average_ridership": 13515
+  },
+  {
+    "month": "2020-06",
+    "mode": "KL Monorail",
+    "average_ridership": 18396
+  },
+  {
+    "month": "2020-07",
+    "mode": "KL Monorail",
+    "average_ridership": 21220
+  },
+  {
+    "month": "2020-08",
+    "mode": "KL Monorail",
+    "average_ridership": 20878
+  },
+  {
+    "month": "2020-09",
+    "mode": "KL Monorail",
+    "average_ridership": 22297
+  },
+  {
+    "month": "2020-10",
+    "mode": "KL Monorail",
+    "average_ridership": 17132
+  },
+  {
+    "month": "2020-11",
+    "mode": "KL Monorail",
+    "average_ridership": 17159
+  },
+  {
+    "month": "2020-12",
+    "mode": "KL Monorail",
+    "average_ridership": 17503
+  },
+  {
+    "month": "2021-01",
+    "mode": "KL Monorail",
+    "average_ridership": 9717
+  },
+  {
+    "month": "2021-02",
+    "mode": "KL Monorail",
+    "average_ridership": 11953
+  },
+  {
+    "month": "2021-03",
+    "mode": "KL Monorail",
+    "average_ridership": 14549
+  },
+  {
+    "month": "2021-04",
+    "mode": "KL Monorail",
+    "average_ridership": 14386
+  },
+  {
+    "month": "2021-05",
+    "mode": "KL Monorail",
+    "average_ridership": 9932
+  },
+  {
+    "month": "2021-06",
+    "mode": "KL Monorail",
+    "average_ridership": 7468
+  },
+  {
+    "month": "2021-07",
+    "mode": "KL Monorail",
+    "average_ridership": 7216
+  },
+  {
+    "month": "2021-08",
+    "mode": "KL Monorail",
+    "average_ridership": 8546
+  },
+  {
+    "month": "2021-09",
+    "mode": "KL Monorail",
+    "average_ridership": 10690
+  },
+  {
+    "month": "2021-10",
+    "mode": "KL Monorail",
+    "average_ridership": 12892
+  },
+  {
+    "month": "2021-11",
+    "mode": "KL Monorail",
+    "average_ridership": 14864
+  },
+  {
+    "month": "2021-12",
+    "mode": "KL Monorail",
+    "average_ridership": 16808
+  },
+  {
+    "month": "2022-01",
+    "mode": "KL Monorail",
+    "average_ridership": 23113
+  },
+  {
+    "month": "2022-02",
+    "mode": "KL Monorail",
+    "average_ridership": 21793
+  },
+  {
+    "month": "2022-03",
+    "mode": "KL Monorail",
+    "average_ridership": 22536
+  },
+  {
+    "month": "2022-04",
+    "mode": "KL Monorail",
+    "average_ridership": 25874
+  },
+  {
+    "month": "2022-05",
+    "mode": "KL Monorail",
+    "average_ridership": 26886
+  },
+  {
+    "month": "2022-06",
+    "mode": "KL Monorail",
+    "average_ridership": 32494
+  },
+  {
+    "month": "2022-07",
+    "mode": "KL Monorail",
+    "average_ridership": 30341
+  },
+  {
+    "month": "2022-08",
+    "mode": "KL Monorail",
+    "average_ridership": 31914
+  },
+  {
+    "month": "2022-09",
+    "mode": "KL Monorail",
+    "average_ridership": 32333
+  },
+  {
+    "month": "2022-10",
+    "mode": "KL Monorail",
+    "average_ridership": 33163
+  },
+  {
+    "month": "2022-11",
+    "mode": "KL Monorail",
+    "average_ridership": 31776
+  },
+  {
+    "month": "2022-12",
+    "mode": "KL Monorail",
+    "average_ridership": 37970
+  },
+  {
+    "month": "2023-01",
+    "mode": "KL Monorail",
+    "average_ridership": 42480
+  },
+  {
+    "month": "2023-02",
+    "mode": "KL Monorail",
+    "average_ridership": 48242
+  },
+  {
+    "month": "2023-03",
+    "mode": "KL Monorail",
+    "average_ridership": 49099
+  },
+  {
+    "month": "2023-04",
+    "mode": "KL Monorail",
+    "average_ridership": 46924
+  },
+  {
+    "month": "2023-05",
+    "mode": "KL Monorail",
+    "average_ridership": 47768
+  },
+  {
+    "month": "2023-06",
+    "mode": "KL Monorail",
+    "average_ridership": 48636
+  },
+  {
+    "month": "2023-07",
+    "mode": "KL Monorail",
+    "average_ridership": 49397
+  },
+  {
+    "month": "2023-08",
+    "mode": "KL Monorail",
+    "average_ridership": 51311
+  },
+  {
+    "month": "2023-09",
+    "mode": "KL Monorail",
+    "average_ridership": 50605
+  },
+  {
+    "month": "2023-10",
+    "mode": "KL Monorail",
+    "average_ridership": 52182
+  },
+  {
+    "month": "2023-11",
+    "mode": "KL Monorail",
+    "average_ridership": 53250
+  },
+  {
+    "month": "2023-12",
+    "mode": "KL Monorail",
+    "average_ridership": 55324
+  },
+  {
+    "month": "2024-01",
+    "mode": "KL Monorail",
+    "average_ridership": 53513
+  },
+  {
+    "month": "2024-02",
+    "mode": "KL Monorail",
+    "average_ridership": 54878
+  },
+  {
+    "month": "2024-03",
+    "mode": "KL Monorail",
+    "average_ridership": 50370
+  },
+  {
+    "month": "2024-04",
+    "mode": "KL Monorail",
+    "average_ridership": 52299
+  },
+  {
+    "month": "2024-05",
+    "mode": "KL Monorail",
+    "average_ridership": 55170
+  },
+  {
+    "month": "2024-06",
+    "mode": "KL Monorail",
+    "average_ridership": 54297
+  },
+  {
+    "month": "2024-07",
+    "mode": "KL Monorail",
+    "average_ridership": 53223
+  },
+  {
+    "month": "2024-08",
+    "mode": "KL Monorail",
+    "average_ridership": 54665
+  },
+  {
+    "month": "2024-09",
+    "mode": "KL Monorail",
+    "average_ridership": 54156
+  },
+  {
+    "month": "2024-10",
+    "mode": "KL Monorail",
+    "average_ridership": 56281
+  },
+  {
+    "month": "2024-11",
+    "mode": "KL Monorail",
+    "average_ridership": 58345
+  },
+  {
+    "month": "2024-12",
+    "mode": "KL Monorail",
+    "average_ridership": 59617
+  },
+  {
+    "month": "2025-01",
+    "mode": "KL Monorail",
+    "average_ridership": 58811
+  },
+  {
+    "month": "2025-02",
+    "mode": "KL Monorail",
+    "average_ridership": 57236
+  },
+  {
+    "month": "2025-03",
+    "mode": "KL Monorail",
+    "average_ridership": 54110
+  },
+  {
+    "month": "2025-04",
+    "mode": "KL Monorail",
+    "average_ridership": 56659
+  },
+  {
+    "month": "2025-05",
+    "mode": "KL Monorail",
+    "average_ridership": 56637
+  },
+  {
+    "month": "2025-06",
+    "mode": "KL Monorail",
+    "average_ridership": 55169
+  },
+  {
+    "month": "2025-07",
+    "mode": "KL Monorail",
+    "average_ridership": 59346
+  },
+  {
+    "month": "2025-08",
+    "mode": "KL Monorail",
+    "average_ridership": 59823
+  },
+  {
+    "month": "2025-09",
+    "mode": "KL Monorail",
+    "average_ridership": 55838
+  },
+  {
+    "month": "2025-10",
+    "mode": "KL Monorail",
+    "average_ridership": 58720
+  },
+  {
+    "month": "2025-11",
+    "mode": "KL Monorail",
+    "average_ridership": 58667
+  },
+  {
+    "month": "2025-12",
+    "mode": "KL Monorail",
+    "average_ridership": 56417
+  },
+  {
+    "month": "2023-01",
+    "mode": "KTM Komuter",
+    "average_ridership": 32002
+  },
+  {
+    "month": "2023-02",
+    "mode": "KTM Komuter",
+    "average_ridership": 30248
+  },
+  {
+    "month": "2023-03",
+    "mode": "KTM Komuter",
+    "average_ridership": 31895
+  },
+  {
+    "month": "2023-04",
+    "mode": "KTM Komuter",
+    "average_ridership": 30283
+  },
+  {
+    "month": "2023-05",
+    "mode": "KTM Komuter",
+    "average_ridership": 30136
+  },
+  {
+    "month": "2023-06",
+    "mode": "KTM Komuter",
+    "average_ridership": 35521
+  },
+  {
+    "month": "2023-07",
+    "mode": "KTM Komuter",
+    "average_ridership": 33657
+  },
+  {
+    "month": "2023-08",
+    "mode": "KTM Komuter",
+    "average_ridership": 35974
+  },
+  {
+    "month": "2023-09",
+    "mode": "KTM Komuter",
+    "average_ridership": 9304
+  },
+  {
+    "month": "2023-10",
+    "mode": "KTM Komuter",
+    "average_ridership": 34235
+  },
+  {
+    "month": "2023-11",
+    "mode": "KTM Komuter",
+    "average_ridership": 33502
+  },
+  {
+    "month": "2023-12",
+    "mode": "KTM Komuter",
+    "average_ridership": 31928
+  },
+  {
+    "month": "2024-01",
+    "mode": "KTM Komuter",
+    "average_ridership": 35960
+  },
+  {
+    "month": "2024-02",
+    "mode": "KTM Komuter",
+    "average_ridership": 34012
+  },
+  {
+    "month": "2024-03",
+    "mode": "KTM Komuter",
+    "average_ridership": 30915
+  },
+  {
+    "month": "2024-04",
+    "mode": "KTM Komuter",
+    "average_ridership": 33376
+  },
+  {
+    "month": "2024-05",
+    "mode": "KTM Komuter",
+    "average_ridership": 35097
+  },
+  {
+    "month": "2024-06",
+    "mode": "KTM Komuter",
+    "average_ridership": 32939
+  },
+  {
+    "month": "2024-07",
+    "mode": "KTM Komuter",
+    "average_ridership": 32045
+  },
+  {
+    "month": "2024-08",
+    "mode": "KTM Komuter",
+    "average_ridership": 32685
+  },
+  {
+    "month": "2024-09",
+    "mode": "KTM Komuter",
+    "average_ridership": 32426
+  },
+  {
+    "month": "2024-10",
+    "mode": "KTM Komuter",
+    "average_ridership": 33472
+  },
+  {
+    "month": "2024-11",
+    "mode": "KTM Komuter",
+    "average_ridership": 34156
+  },
+  {
+    "month": "2024-12",
+    "mode": "KTM Komuter",
+    "average_ridership": 32387
+  },
+  {
+    "month": "2025-01",
+    "mode": "KTM Komuter",
+    "average_ridership": 28762
+  },
+  {
+    "month": "2025-02",
+    "mode": "KTM Komuter",
+    "average_ridership": 27891
+  },
+  {
+    "month": "2025-03",
+    "mode": "KTM Komuter",
+    "average_ridership": 25058
+  },
+  {
+    "month": "2025-04",
+    "mode": "KTM Komuter",
+    "average_ridership": 28036
+  },
+  {
+    "month": "2025-05",
+    "mode": "KTM Komuter",
+    "average_ridership": 27200
+  },
+  {
+    "month": "2025-06",
+    "mode": "KTM Komuter",
+    "average_ridership": 25869
+  },
+  {
+    "month": "2025-07",
+    "mode": "KTM Komuter",
+    "average_ridership": 28183
+  },
+  {
+    "month": "2025-08",
+    "mode": "KTM Komuter",
+    "average_ridership": 27248
+  },
+  {
+    "month": "2025-09",
+    "mode": "KTM Komuter",
+    "average_ridership": 26307
+  },
+  {
+    "month": "2025-10",
+    "mode": "KTM Komuter",
+    "average_ridership": 33823
+  },
+  {
+    "month": "2025-11",
+    "mode": "KTM Komuter",
+    "average_ridership": 35638
+  },
+  {
+    "month": "2025-12",
+    "mode": "KTM Komuter",
+    "average_ridership": 27826
+  },
+  {
+    "month": "2020-01",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 3956
+  },
+  {
+    "month": "2020-02",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 3632
+  },
+  {
+    "month": "2020-03",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 3375
+  },
+  {
+    "month": "2020-04",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 3374
+  },
+  {
+    "month": "2020-05",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 3632
+  },
+  {
+    "month": "2020-06",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 3936
+  },
+  {
+    "month": "2020-07",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 4125
+  },
+  {
+    "month": "2020-08",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 5258
+  },
+  {
+    "month": "2020-09",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 3070
+  },
+  {
+    "month": "2020-10",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 3837
+  },
+  {
+    "month": "2020-11",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 2390
+  },
+  {
+    "month": "2020-12",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 5046
+  },
+  {
+    "month": "2021-01",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 2066
+  },
+  {
+    "month": "2021-02",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 2461
+  },
+  {
+    "month": "2021-03",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 3432
+  },
+  {
+    "month": "2021-04",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 3314
+  },
+  {
+    "month": "2021-05",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 2023
+  },
+  {
+    "month": "2021-06",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 1745
+  },
+  {
+    "month": "2021-07",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 1925
+  },
+  {
+    "month": "2021-08",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 1917
+  },
+  {
+    "month": "2021-09",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 2233
+  },
+  {
+    "month": "2021-10",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 3381
+  },
+  {
+    "month": "2021-11",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 4349
+  },
+  {
+    "month": "2021-12",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 5529
+  },
+  {
+    "month": "2022-01",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 6603
+  },
+  {
+    "month": "2022-02",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 6303
+  },
+  {
+    "month": "2022-03",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 6770
+  },
+  {
+    "month": "2022-04",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 7326
+  },
+  {
+    "month": "2022-05",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 8277
+  },
+  {
+    "month": "2022-06",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 8327
+  },
+  {
+    "month": "2022-07",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 8577
+  },
+  {
+    "month": "2022-08",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 8727
+  },
+  {
+    "month": "2022-09",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 9171
+  },
+  {
+    "month": "2022-10",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 9915
+  },
+  {
+    "month": "2022-11",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 9958
+  },
+  {
+    "month": "2022-12",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 10407
+  },
+  {
+    "month": "2023-01",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 11592
+  },
+  {
+    "month": "2023-02",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 11630
+  },
+  {
+    "month": "2023-03",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 11229
+  },
+  {
+    "month": "2023-04",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 11264
+  },
+  {
+    "month": "2023-05",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 11198
+  },
+  {
+    "month": "2023-06",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 11150
+  },
+  {
+    "month": "2023-07",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 11066
+  },
+  {
+    "month": "2023-08",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 11750
+  },
+  {
+    "month": "2023-09",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 12431
+  },
+  {
+    "month": "2023-10",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 13198
+  },
+  {
+    "month": "2023-11",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 12678
+  },
+  {
+    "month": "2023-12",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 14083
+  },
+  {
+    "month": "2024-01",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 14047
+  },
+  {
+    "month": "2024-02",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 15069
+  },
+  {
+    "month": "2024-03",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 13726
+  },
+  {
+    "month": "2024-04",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 15213
+  },
+  {
+    "month": "2024-05",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 15244
+  },
+  {
+    "month": "2024-06",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 15220
+  },
+  {
+    "month": "2024-07",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 14511
+  },
+  {
+    "month": "2024-08",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 14887
+  },
+  {
+    "month": "2024-09",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 15772
+  },
+  {
+    "month": "2024-10",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 15703
+  },
+  {
+    "month": "2024-11",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 15461
+  },
+  {
+    "month": "2024-12",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 16468
+  },
+  {
+    "month": "2025-01",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 17109
+  },
+  {
+    "month": "2025-02",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 16541
+  },
+  {
+    "month": "2025-03",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 14941
+  },
+  {
+    "month": "2025-04",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 17177
+  },
+  {
+    "month": "2025-05",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 15942
+  },
+  {
+    "month": "2025-06",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 15802
+  },
+  {
+    "month": "2025-07",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 15810
+  },
+  {
+    "month": "2025-08",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 16311
+  },
+  {
+    "month": "2025-09",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 17307
+  },
+  {
+    "month": "2025-10",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 16809
+  },
+  {
+    "month": "2025-11",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 16491
+  },
+  {
+    "month": "2025-12",
+    "mode": "KTM Komuter Utara",
+    "average_ridership": 17088
+  },
+  {
+    "month": "2019-01",
+    "mode": "LRT Ampang",
+    "average_ridership": 172936
+  },
+  {
+    "month": "2019-02",
+    "mode": "LRT Ampang",
+    "average_ridership": 177417
+  },
+  {
+    "month": "2019-03",
+    "mode": "LRT Ampang",
+    "average_ridership": 179907
+  },
+  {
+    "month": "2019-04",
+    "mode": "LRT Ampang",
+    "average_ridership": 180521
+  },
+  {
+    "month": "2019-05",
+    "mode": "LRT Ampang",
+    "average_ridership": 176011
+  },
+  {
+    "month": "2019-06",
+    "mode": "LRT Ampang",
+    "average_ridership": 172908
+  },
+  {
+    "month": "2019-07",
+    "mode": "LRT Ampang",
+    "average_ridership": 176274
+  },
+  {
+    "month": "2019-08",
+    "mode": "LRT Ampang",
+    "average_ridership": 183355
+  },
+  {
+    "month": "2019-09",
+    "mode": "LRT Ampang",
+    "average_ridership": 171710
+  },
+  {
+    "month": "2019-10",
+    "mode": "LRT Ampang",
+    "average_ridership": 180626
+  },
+  {
+    "month": "2019-11",
+    "mode": "LRT Ampang",
+    "average_ridership": 191590
+  },
+  {
+    "month": "2019-12",
+    "mode": "LRT Ampang",
+    "average_ridership": 178558
+  },
+  {
+    "month": "2020-01",
+    "mode": "LRT Ampang",
+    "average_ridership": 139775
+  },
+  {
+    "month": "2020-02",
+    "mode": "LRT Ampang",
+    "average_ridership": 147251
+  },
+  {
+    "month": "2020-03",
+    "mode": "LRT Ampang",
+    "average_ridership": 73442
+  },
+  {
+    "month": "2020-04",
+    "mode": "LRT Ampang",
+    "average_ridership": 48415
+  },
+  {
+    "month": "2020-05",
+    "mode": "LRT Ampang",
+    "average_ridership": 65610
+  },
+  {
+    "month": "2020-06",
+    "mode": "LRT Ampang",
+    "average_ridership": 92622
+  },
+  {
+    "month": "2020-07",
+    "mode": "LRT Ampang",
+    "average_ridership": 105985
+  },
+  {
+    "month": "2020-08",
+    "mode": "LRT Ampang",
+    "average_ridership": 100165
+  },
+  {
+    "month": "2020-09",
+    "mode": "LRT Ampang",
+    "average_ridership": 111334
+  },
+  {
+    "month": "2020-10",
+    "mode": "LRT Ampang",
+    "average_ridership": 86636
+  },
+  {
+    "month": "2020-11",
+    "mode": "LRT Ampang",
+    "average_ridership": 82865
+  },
+  {
+    "month": "2020-12",
+    "mode": "LRT Ampang",
+    "average_ridership": 86071
+  },
+  {
+    "month": "2021-01",
+    "mode": "LRT Ampang",
+    "average_ridership": 52231
+  },
+  {
+    "month": "2021-02",
+    "mode": "LRT Ampang",
+    "average_ridership": 62629
+  },
+  {
+    "month": "2021-03",
+    "mode": "LRT Ampang",
+    "average_ridership": 74402
+  },
+  {
+    "month": "2021-04",
+    "mode": "LRT Ampang",
+    "average_ridership": 76237
+  },
+  {
+    "month": "2021-05",
+    "mode": "LRT Ampang",
+    "average_ridership": 53701
+  },
+  {
+    "month": "2021-06",
+    "mode": "LRT Ampang",
+    "average_ridership": 40864
+  },
+  {
+    "month": "2021-07",
+    "mode": "LRT Ampang",
+    "average_ridership": 39749
+  },
+  {
+    "month": "2021-08",
+    "mode": "LRT Ampang",
+    "average_ridership": 48334
+  },
+  {
+    "month": "2021-09",
+    "mode": "LRT Ampang",
+    "average_ridership": 58296
+  },
+  {
+    "month": "2021-10",
+    "mode": "LRT Ampang",
+    "average_ridership": 64611
+  },
+  {
+    "month": "2021-11",
+    "mode": "LRT Ampang",
+    "average_ridership": 72721
+  },
+  {
+    "month": "2021-12",
+    "mode": "LRT Ampang",
+    "average_ridership": 77998
+  },
+  {
+    "month": "2022-01",
+    "mode": "LRT Ampang",
+    "average_ridership": 103488
+  },
+  {
+    "month": "2022-02",
+    "mode": "LRT Ampang",
+    "average_ridership": 94448
+  },
+  {
+    "month": "2022-03",
+    "mode": "LRT Ampang",
+    "average_ridership": 98245
+  },
+  {
+    "month": "2022-04",
+    "mode": "LRT Ampang",
+    "average_ridership": 115876
+  },
+  {
+    "month": "2022-05",
+    "mode": "LRT Ampang",
+    "average_ridership": 116762
+  },
+  {
+    "month": "2022-06",
+    "mode": "LRT Ampang",
+    "average_ridership": 134869
+  },
+  {
+    "month": "2022-07",
+    "mode": "LRT Ampang",
+    "average_ridership": 129683
+  },
+  {
+    "month": "2022-08",
+    "mode": "LRT Ampang",
+    "average_ridership": 132731
+  },
+  {
+    "month": "2022-09",
+    "mode": "LRT Ampang",
+    "average_ridership": 132439
+  },
+  {
+    "month": "2022-10",
+    "mode": "LRT Ampang",
+    "average_ridership": 129738
+  },
+  {
+    "month": "2022-11",
+    "mode": "LRT Ampang",
+    "average_ridership": 125920
+  },
+  {
+    "month": "2022-12",
+    "mode": "LRT Ampang",
+    "average_ridership": 135600
+  },
+  {
+    "month": "2023-01",
+    "mode": "LRT Ampang",
+    "average_ridership": 131059
+  },
+  {
+    "month": "2023-02",
+    "mode": "LRT Ampang",
+    "average_ridership": 132840
+  },
+  {
+    "month": "2023-03",
+    "mode": "LRT Ampang",
+    "average_ridership": 141354
+  },
+  {
+    "month": "2023-04",
+    "mode": "LRT Ampang",
+    "average_ridership": 119999
+  },
+  {
+    "month": "2023-05",
+    "mode": "LRT Ampang",
+    "average_ridership": 137238
+  },
+  {
+    "month": "2023-06",
+    "mode": "LRT Ampang",
+    "average_ridership": 137284
+  },
+  {
+    "month": "2023-07",
+    "mode": "LRT Ampang",
+    "average_ridership": 139861
+  },
+  {
+    "month": "2023-08",
+    "mode": "LRT Ampang",
+    "average_ridership": 143748
+  },
+  {
+    "month": "2023-09",
+    "mode": "LRT Ampang",
+    "average_ridership": 142428
+  },
+  {
+    "month": "2023-10",
+    "mode": "LRT Ampang",
+    "average_ridership": 147610
+  },
+  {
+    "month": "2023-11",
+    "mode": "LRT Ampang",
+    "average_ridership": 148602
+  },
+  {
+    "month": "2023-12",
+    "mode": "LRT Ampang",
+    "average_ridership": 140475
+  },
+  {
+    "month": "2024-01",
+    "mode": "LRT Ampang",
+    "average_ridership": 151395
+  },
+  {
+    "month": "2024-02",
+    "mode": "LRT Ampang",
+    "average_ridership": 168269
+  },
+  {
+    "month": "2024-03",
+    "mode": "LRT Ampang",
+    "average_ridership": 165274
+  },
+  {
+    "month": "2024-04",
+    "mode": "LRT Ampang",
+    "average_ridership": 170306
+  },
+  {
+    "month": "2024-05",
+    "mode": "LRT Ampang",
+    "average_ridership": 187031
+  },
+  {
+    "month": "2024-06",
+    "mode": "LRT Ampang",
+    "average_ridership": 172919
+  },
+  {
+    "month": "2024-07",
+    "mode": "LRT Ampang",
+    "average_ridership": 176745
+  },
+  {
+    "month": "2024-08",
+    "mode": "LRT Ampang",
+    "average_ridership": 182785
+  },
+  {
+    "month": "2024-09",
+    "mode": "LRT Ampang",
+    "average_ridership": 175052
+  },
+  {
+    "month": "2024-10",
+    "mode": "LRT Ampang",
+    "average_ridership": 182066
+  },
+  {
+    "month": "2024-11",
+    "mode": "LRT Ampang",
+    "average_ridership": 188423
+  },
+  {
+    "month": "2024-12",
+    "mode": "LRT Ampang",
+    "average_ridership": 178643
+  },
+  {
+    "month": "2025-01",
+    "mode": "LRT Ampang",
+    "average_ridership": 176011
+  },
+  {
+    "month": "2025-02",
+    "mode": "LRT Ampang",
+    "average_ridership": 191351
+  },
+  {
+    "month": "2025-03",
+    "mode": "LRT Ampang",
+    "average_ridership": 186136
+  },
+  {
+    "month": "2025-04",
+    "mode": "LRT Ampang",
+    "average_ridership": 197437
+  },
+  {
+    "month": "2025-05",
+    "mode": "LRT Ampang",
+    "average_ridership": 200855
+  },
+  {
+    "month": "2025-06",
+    "mode": "LRT Ampang",
+    "average_ridership": 187234
+  },
+  {
+    "month": "2025-07",
+    "mode": "LRT Ampang",
+    "average_ridership": 202593
+  },
+  {
+    "month": "2025-08",
+    "mode": "LRT Ampang",
+    "average_ridership": 202506
+  },
+  {
+    "month": "2025-09",
+    "mode": "LRT Ampang",
+    "average_ridership": 187406
+  },
+  {
+    "month": "2025-10",
+    "mode": "LRT Ampang",
+    "average_ridership": 210802
+  },
+  {
+    "month": "2025-11",
+    "mode": "LRT Ampang",
+    "average_ridership": 195904
+  },
+  {
+    "month": "2025-12",
+    "mode": "LRT Ampang",
+    "average_ridership": 189150
+  },
+  {
+    "month": "2019-01",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 250642
+  },
+  {
+    "month": "2019-02",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 258462
+  },
+  {
+    "month": "2019-03",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 258668
+  },
+  {
+    "month": "2019-04",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 264264
+  },
+  {
+    "month": "2019-05",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 253280
+  },
+  {
+    "month": "2019-06",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 249184
+  },
+  {
+    "month": "2019-07",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 253441
+  },
+  {
+    "month": "2019-08",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 272468
+  },
+  {
+    "month": "2019-09",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 246984
+  },
+  {
+    "month": "2019-10",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 263599
+  },
+  {
+    "month": "2019-11",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 283483
+  },
+  {
+    "month": "2019-12",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 257696
+  },
+  {
+    "month": "2020-01",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 198307
+  },
+  {
+    "month": "2020-02",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 212155
+  },
+  {
+    "month": "2020-03",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 99537
+  },
+  {
+    "month": "2020-04",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 62964
+  },
+  {
+    "month": "2020-05",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 80332
+  },
+  {
+    "month": "2020-06",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 118300
+  },
+  {
+    "month": "2020-07",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 135950
+  },
+  {
+    "month": "2020-08",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 125825
+  },
+  {
+    "month": "2020-09",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 143997
+  },
+  {
+    "month": "2020-10",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 107479
+  },
+  {
+    "month": "2020-11",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 100377
+  },
+  {
+    "month": "2020-12",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 103716
+  },
+  {
+    "month": "2021-01",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 57035
+  },
+  {
+    "month": "2021-02",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 69293
+  },
+  {
+    "month": "2021-03",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 86615
+  },
+  {
+    "month": "2021-04",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 90230
+  },
+  {
+    "month": "2021-05",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 58163
+  },
+  {
+    "month": "2021-06",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 46594
+  },
+  {
+    "month": "2021-07",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 44097
+  },
+  {
+    "month": "2021-08",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 52715
+  },
+  {
+    "month": "2021-09",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 64308
+  },
+  {
+    "month": "2021-10",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 74808
+  },
+  {
+    "month": "2021-11",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 87854
+  },
+  {
+    "month": "2021-12",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 94754
+  },
+  {
+    "month": "2022-01",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 128007
+  },
+  {
+    "month": "2022-02",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 116550
+  },
+  {
+    "month": "2022-03",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 122233
+  },
+  {
+    "month": "2022-04",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 138795
+  },
+  {
+    "month": "2022-05",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 152543
+  },
+  {
+    "month": "2022-06",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 172208
+  },
+  {
+    "month": "2022-07",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 165843
+  },
+  {
+    "month": "2022-08",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 166142
+  },
+  {
+    "month": "2022-09",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 164950
+  },
+  {
+    "month": "2022-10",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 158224
+  },
+  {
+    "month": "2022-11",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 148737
+  },
+  {
+    "month": "2022-12",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 171900
+  },
+  {
+    "month": "2023-01",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 174848
+  },
+  {
+    "month": "2023-02",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 198161
+  },
+  {
+    "month": "2023-03",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 209101
+  },
+  {
+    "month": "2023-04",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 180913
+  },
+  {
+    "month": "2023-05",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 196276
+  },
+  {
+    "month": "2023-06",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 203733
+  },
+  {
+    "month": "2023-07",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 205148
+  },
+  {
+    "month": "2023-08",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 209509
+  },
+  {
+    "month": "2023-09",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 210416
+  },
+  {
+    "month": "2023-10",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 216551
+  },
+  {
+    "month": "2023-11",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 214956
+  },
+  {
+    "month": "2023-12",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 205166
+  },
+  {
+    "month": "2024-01",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 209428
+  },
+  {
+    "month": "2024-02",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 232180
+  },
+  {
+    "month": "2024-03",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 218194
+  },
+  {
+    "month": "2024-04",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 227521
+  },
+  {
+    "month": "2024-05",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 244664
+  },
+  {
+    "month": "2024-06",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 224350
+  },
+  {
+    "month": "2024-07",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 234034
+  },
+  {
+    "month": "2024-08",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 239573
+  },
+  {
+    "month": "2024-09",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 226636
+  },
+  {
+    "month": "2024-10",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 238686
+  },
+  {
+    "month": "2024-11",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 248313
+  },
+  {
+    "month": "2024-12",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 234629
+  },
+  {
+    "month": "2025-01",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 221400
+  },
+  {
+    "month": "2025-02",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 243748
+  },
+  {
+    "month": "2025-03",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 231310
+  },
+  {
+    "month": "2025-04",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 255633
+  },
+  {
+    "month": "2025-05",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 246947
+  },
+  {
+    "month": "2025-06",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 235584
+  },
+  {
+    "month": "2025-07",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 262678
+  },
+  {
+    "month": "2025-08",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 259012
+  },
+  {
+    "month": "2025-09",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 236231
+  },
+  {
+    "month": "2025-10",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 263394
+  },
+  {
+    "month": "2025-11",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 250698
+  },
+  {
+    "month": "2025-12",
+    "mode": "LRT Kelana Jaya",
+    "average_ridership": 236911
+  },
+  {
+    "month": "2019-01",
+    "mode": "MRT Kajang",
+    "average_ridership": 169806
+  },
+  {
+    "month": "2019-02",
+    "mode": "MRT Kajang",
+    "average_ridership": 171065
+  },
+  {
+    "month": "2019-03",
+    "mode": "MRT Kajang",
+    "average_ridership": 172715
+  },
+  {
+    "month": "2019-04",
+    "mode": "MRT Kajang",
+    "average_ridership": 173773
+  },
+  {
+    "month": "2019-05",
+    "mode": "MRT Kajang",
+    "average_ridership": 168702
+  },
+  {
+    "month": "2019-06",
+    "mode": "MRT Kajang",
+    "average_ridership": 169378
+  },
+  {
+    "month": "2019-07",
+    "mode": "MRT Kajang",
+    "average_ridership": 172369
+  },
+  {
+    "month": "2019-08",
+    "mode": "MRT Kajang",
+    "average_ridership": 181486
+  },
+  {
+    "month": "2019-09",
+    "mode": "MRT Kajang",
+    "average_ridership": 169815
+  },
+  {
+    "month": "2019-10",
+    "mode": "MRT Kajang",
+    "average_ridership": 180386
+  },
+  {
+    "month": "2019-11",
+    "mode": "MRT Kajang",
+    "average_ridership": 191825
+  },
+  {
+    "month": "2019-12",
+    "mode": "MRT Kajang",
+    "average_ridership": 180965
+  },
+  {
+    "month": "2020-01",
+    "mode": "MRT Kajang",
+    "average_ridership": 142203
+  },
+  {
+    "month": "2020-02",
+    "mode": "MRT Kajang",
+    "average_ridership": 149194
+  },
+  {
+    "month": "2020-03",
+    "mode": "MRT Kajang",
+    "average_ridership": 69306
+  },
+  {
+    "month": "2020-04",
+    "mode": "MRT Kajang",
+    "average_ridership": 45312
+  },
+  {
+    "month": "2020-05",
+    "mode": "MRT Kajang",
+    "average_ridership": 60642
+  },
+  {
+    "month": "2020-06",
+    "mode": "MRT Kajang",
+    "average_ridership": 86770
+  },
+  {
+    "month": "2020-07",
+    "mode": "MRT Kajang",
+    "average_ridership": 100881
+  },
+  {
+    "month": "2020-08",
+    "mode": "MRT Kajang",
+    "average_ridership": 95738
+  },
+  {
+    "month": "2020-09",
+    "mode": "MRT Kajang",
+    "average_ridership": 107963
+  },
+  {
+    "month": "2020-10",
+    "mode": "MRT Kajang",
+    "average_ridership": 77160
+  },
+  {
+    "month": "2020-11",
+    "mode": "MRT Kajang",
+    "average_ridership": 75192
+  },
+  {
+    "month": "2020-12",
+    "mode": "MRT Kajang",
+    "average_ridership": 79380
+  },
+  {
+    "month": "2021-01",
+    "mode": "MRT Kajang",
+    "average_ridership": 43197
+  },
+  {
+    "month": "2021-02",
+    "mode": "MRT Kajang",
+    "average_ridership": 54482
+  },
+  {
+    "month": "2021-03",
+    "mode": "MRT Kajang",
+    "average_ridership": 69565
+  },
+  {
+    "month": "2021-04",
+    "mode": "MRT Kajang",
+    "average_ridership": 71232
+  },
+  {
+    "month": "2021-05",
+    "mode": "MRT Kajang",
+    "average_ridership": 46571
+  },
+  {
+    "month": "2021-06",
+    "mode": "MRT Kajang",
+    "average_ridership": 34786
+  },
+  {
+    "month": "2021-07",
+    "mode": "MRT Kajang",
+    "average_ridership": 32693
+  },
+  {
+    "month": "2021-08",
+    "mode": "MRT Kajang",
+    "average_ridership": 38413
+  },
+  {
+    "month": "2021-09",
+    "mode": "MRT Kajang",
+    "average_ridership": 50393
+  },
+  {
+    "month": "2021-10",
+    "mode": "MRT Kajang",
+    "average_ridership": 58520
+  },
+  {
+    "month": "2021-11",
+    "mode": "MRT Kajang",
+    "average_ridership": 68189
+  },
+  {
+    "month": "2021-12",
+    "mode": "MRT Kajang",
+    "average_ridership": 75864
+  },
+  {
+    "month": "2022-01",
+    "mode": "MRT Kajang",
+    "average_ridership": 102307
+  },
+  {
+    "month": "2022-02",
+    "mode": "MRT Kajang",
+    "average_ridership": 92938
+  },
+  {
+    "month": "2022-03",
+    "mode": "MRT Kajang",
+    "average_ridership": 95847
+  },
+  {
+    "month": "2022-04",
+    "mode": "MRT Kajang",
+    "average_ridership": 107560
+  },
+  {
+    "month": "2022-05",
+    "mode": "MRT Kajang",
+    "average_ridership": 119231
+  },
+  {
+    "month": "2022-06",
+    "mode": "MRT Kajang",
+    "average_ridership": 144380
+  },
+  {
+    "month": "2022-07",
+    "mode": "MRT Kajang",
+    "average_ridership": 136748
+  },
+  {
+    "month": "2022-08",
+    "mode": "MRT Kajang",
+    "average_ridership": 136696
+  },
+  {
+    "month": "2022-09",
+    "mode": "MRT Kajang",
+    "average_ridership": 140379
+  },
+  {
+    "month": "2022-10",
+    "mode": "MRT Kajang",
+    "average_ridership": 134951
+  },
+  {
+    "month": "2022-11",
+    "mode": "MRT Kajang",
+    "average_ridership": 131435
+  },
+  {
+    "month": "2022-12",
+    "mode": "MRT Kajang",
+    "average_ridership": 146263
+  },
+  {
+    "month": "2023-01",
+    "mode": "MRT Kajang",
+    "average_ridership": 152336
+  },
+  {
+    "month": "2023-02",
+    "mode": "MRT Kajang",
+    "average_ridership": 168276
+  },
+  {
+    "month": "2023-03",
+    "mode": "MRT Kajang",
+    "average_ridership": 184328
+  },
+  {
+    "month": "2023-04",
+    "mode": "MRT Kajang",
+    "average_ridership": 167009
+  },
+  {
+    "month": "2023-05",
+    "mode": "MRT Kajang",
+    "average_ridership": 176924
+  },
+  {
+    "month": "2023-06",
+    "mode": "MRT Kajang",
+    "average_ridership": 183067
+  },
+  {
+    "month": "2023-07",
+    "mode": "MRT Kajang",
+    "average_ridership": 184073
+  },
+  {
+    "month": "2023-08",
+    "mode": "MRT Kajang",
+    "average_ridership": 186454
+  },
+  {
+    "month": "2023-09",
+    "mode": "MRT Kajang",
+    "average_ridership": 189440
+  },
+  {
+    "month": "2023-10",
+    "mode": "MRT Kajang",
+    "average_ridership": 194486
+  },
+  {
+    "month": "2023-11",
+    "mode": "MRT Kajang",
+    "average_ridership": 196576
+  },
+  {
+    "month": "2023-12",
+    "mode": "MRT Kajang",
+    "average_ridership": 202271
+  },
+  {
+    "month": "2024-01",
+    "mode": "MRT Kajang",
+    "average_ridership": 212958
+  },
+  {
+    "month": "2024-02",
+    "mode": "MRT Kajang",
+    "average_ridership": 226388
+  },
+  {
+    "month": "2024-03",
+    "mode": "MRT Kajang",
+    "average_ridership": 212949
+  },
+  {
+    "month": "2024-04",
+    "mode": "MRT Kajang",
+    "average_ridership": 221269
+  },
+  {
+    "month": "2024-05",
+    "mode": "MRT Kajang",
+    "average_ridership": 238053
+  },
+  {
+    "month": "2024-06",
+    "mode": "MRT Kajang",
+    "average_ridership": 227581
+  },
+  {
+    "month": "2024-07",
+    "mode": "MRT Kajang",
+    "average_ridership": 234424
+  },
+  {
+    "month": "2024-08",
+    "mode": "MRT Kajang",
+    "average_ridership": 238300
+  },
+  {
+    "month": "2024-09",
+    "mode": "MRT Kajang",
+    "average_ridership": 230056
+  },
+  {
+    "month": "2024-10",
+    "mode": "MRT Kajang",
+    "average_ridership": 239093
+  },
+  {
+    "month": "2024-11",
+    "mode": "MRT Kajang",
+    "average_ridership": 247041
+  },
+  {
+    "month": "2024-12",
+    "mode": "MRT Kajang",
+    "average_ridership": 242847
+  },
+  {
+    "month": "2025-01",
+    "mode": "MRT Kajang",
+    "average_ridership": 235158
+  },
+  {
+    "month": "2025-02",
+    "mode": "MRT Kajang",
+    "average_ridership": 248662
+  },
+  {
+    "month": "2025-03",
+    "mode": "MRT Kajang",
+    "average_ridership": 234237
+  },
+  {
+    "month": "2025-04",
+    "mode": "MRT Kajang",
+    "average_ridership": 257154
+  },
+  {
+    "month": "2025-05",
+    "mode": "MRT Kajang",
+    "average_ridership": 254009
+  },
+  {
+    "month": "2025-06",
+    "mode": "MRT Kajang",
+    "average_ridership": 246537
+  },
+  {
+    "month": "2025-07",
+    "mode": "MRT Kajang",
+    "average_ridership": 263773
+  },
+  {
+    "month": "2025-08",
+    "mode": "MRT Kajang",
+    "average_ridership": 264884
+  },
+  {
+    "month": "2025-09",
+    "mode": "MRT Kajang",
+    "average_ridership": 249606
+  },
+  {
+    "month": "2025-10",
+    "mode": "MRT Kajang",
+    "average_ridership": 264739
+  },
+  {
+    "month": "2025-11",
+    "mode": "MRT Kajang",
+    "average_ridership": 259147
+  },
+  {
+    "month": "2025-12",
+    "mode": "MRT Kajang",
+    "average_ridership": 246921
+  },
+  {
+    "month": "2022-01",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 22653
+  },
+  {
+    "month": "2022-02",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 24938
+  },
+  {
+    "month": "2022-03",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 21905
+  },
+  {
+    "month": "2022-04",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 19832
+  },
+  {
+    "month": "2022-05",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 21897
+  },
+  {
+    "month": "2022-06",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 23482
+  },
+  {
+    "month": "2022-07",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 19059
+  },
+  {
+    "month": "2022-08",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 19423
+  },
+  {
+    "month": "2022-09",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 20856
+  },
+  {
+    "month": "2022-10",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 20210
+  },
+  {
+    "month": "2022-11",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 19452
+  },
+  {
+    "month": "2022-12",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 22097
+  },
+  {
+    "month": "2023-01",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 39848
+  },
+  {
+    "month": "2023-02",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 42300
+  },
+  {
+    "month": "2023-03",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 86191
+  },
+  {
+    "month": "2023-04",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 71674
+  },
+  {
+    "month": "2023-05",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 80611
+  },
+  {
+    "month": "2023-06",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 83745
+  },
+  {
+    "month": "2023-07",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 86564
+  },
+  {
+    "month": "2023-08",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 91452
+  },
+  {
+    "month": "2023-09",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 90600
+  },
+  {
+    "month": "2023-10",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 95427
+  },
+  {
+    "month": "2023-11",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 99455
+  },
+  {
+    "month": "2023-12",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 100786
+  },
+  {
+    "month": "2024-01",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 117268
+  },
+  {
+    "month": "2024-02",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 127226
+  },
+  {
+    "month": "2024-03",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 121343
+  },
+  {
+    "month": "2024-04",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 127786
+  },
+  {
+    "month": "2024-05",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 137214
+  },
+  {
+    "month": "2024-06",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 127287
+  },
+  {
+    "month": "2024-07",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 132499
+  },
+  {
+    "month": "2024-08",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 138093
+  },
+  {
+    "month": "2024-09",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 131007
+  },
+  {
+    "month": "2024-10",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 137140
+  },
+  {
+    "month": "2024-11",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 143441
+  },
+  {
+    "month": "2024-12",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 137440
+  },
+  {
+    "month": "2025-01",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 133827
+  },
+  {
+    "month": "2025-02",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 147151
+  },
+  {
+    "month": "2025-03",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 140448
+  },
+  {
+    "month": "2025-04",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 156591
+  },
+  {
+    "month": "2025-05",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 153870
+  },
+  {
+    "month": "2025-06",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 147427
+  },
+  {
+    "month": "2025-07",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 162537
+  },
+  {
+    "month": "2025-08",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 161753
+  },
+  {
+    "month": "2025-09",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 149061
+  },
+  {
+    "month": "2025-10",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 162012
+  },
+  {
+    "month": "2025-11",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 155701
+  },
+  {
+    "month": "2025-12",
+    "mode": "MRT Putrajaya",
+    "average_ridership": 147383
+  },
+  {
+    "month": "2022-01",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 7829
+  },
+  {
+    "month": "2022-02",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 7474
+  },
+  {
+    "month": "2022-03",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 7433
+  },
+  {
+    "month": "2022-04",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 7410
+  },
+  {
+    "month": "2022-05",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 7740
+  },
+  {
+    "month": "2022-06",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 6099
+  },
+  {
+    "month": "2022-07",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 6331
+  },
+  {
+    "month": "2022-08",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 7360
+  },
+  {
+    "month": "2022-09",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 7768
+  },
+  {
+    "month": "2022-10",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8159
+  },
+  {
+    "month": "2022-11",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8008
+  },
+  {
+    "month": "2022-12",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 9127
+  },
+  {
+    "month": "2023-01",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8184
+  },
+  {
+    "month": "2023-02",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8133
+  },
+  {
+    "month": "2023-03",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8714
+  },
+  {
+    "month": "2023-04",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8759
+  },
+  {
+    "month": "2023-05",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8543
+  },
+  {
+    "month": "2023-06",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 9032
+  },
+  {
+    "month": "2023-07",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8646
+  },
+  {
+    "month": "2023-08",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8562
+  },
+  {
+    "month": "2023-09",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8566
+  },
+  {
+    "month": "2023-10",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8426
+  },
+  {
+    "month": "2023-11",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8618
+  },
+  {
+    "month": "2023-12",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 9177
+  },
+  {
+    "month": "2024-01",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8647
+  },
+  {
+    "month": "2024-02",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8602
+  },
+  {
+    "month": "2024-03",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8640
+  },
+  {
+    "month": "2024-04",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8396
+  },
+  {
+    "month": "2024-05",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8718
+  },
+  {
+    "month": "2024-06",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8782
+  },
+  {
+    "month": "2024-07",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8331
+  },
+  {
+    "month": "2024-08",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8385
+  },
+  {
+    "month": "2024-09",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8309
+  },
+  {
+    "month": "2024-10",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8062
+  },
+  {
+    "month": "2024-11",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8317
+  },
+  {
+    "month": "2024-12",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8916
+  },
+  {
+    "month": "2025-01",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8205
+  },
+  {
+    "month": "2025-02",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8047
+  },
+  {
+    "month": "2025-03",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8239
+  },
+  {
+    "month": "2025-04",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 7928
+  },
+  {
+    "month": "2025-05",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8047
+  },
+  {
+    "month": "2025-06",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8404
+  },
+  {
+    "month": "2025-07",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8251
+  },
+  {
+    "month": "2025-08",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8317
+  },
+  {
+    "month": "2025-09",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8247
+  },
+  {
+    "month": "2025-10",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8318
+  },
+  {
+    "month": "2025-11",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8467
+  },
+  {
+    "month": "2025-12",
+    "mode": "Shuttle Tebrau",
+    "average_ridership": 8062
+  }
+]
