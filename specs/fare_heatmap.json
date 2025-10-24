@@ -5,9 +5,11 @@
     "type": "fit",
     "contains": "padding"
   },
-  "width": "container",
+  "width": {
+    "step": 14
+  },
   "height": {
-    "step": 10
+    "step": 14
   },
   "data": {
     "url": "data/fare_long.csv"

@@ -10,7 +10,7 @@
   </head>
   <body>
     <main class="layout">
-      <h1>Malaysia Mobility Insights Dashboard</h1>
+      <h1 style="font-family: 'DM Serif Display', serif; font-size: 2.5rem;">Malaysia Mobility Insights Dashboard</h1>
       <p>
         Explore state-level bus terminal coverage, long-term vehicle
         registrations, rail ridership momentum, and drill into LRT Ampang fare
@@ -23,14 +23,14 @@
         </div>
       </section>
 
-      <section class="panel panel--wide">
+      <section class="panel panel--half">
         <h2 class="panel__title">Registered Vehicles by Category (2000-2021)</h2>
         <div class="panel__chart">
           <div id="chart-vehicles" class="chart-wrapper"></div>
         </div>
       </section>
 
-      <section class="panel panel--wide">
+      <section class="panel panel--half">
         <h2 class="panel__title">Rail Ridership Momentum</h2>
         <div class="panel__chart">
           <div id="chart-ridership" class="chart-wrapper"></div>
@@ -44,10 +44,28 @@
         </div>
       </section>
 
-      <section class="panel">
+      <section class="panel panel--half">
         <h2 class="panel__title">High-Cost Origin Distributions</h2>
         <div class="panel__chart">
           <div id="chart-density" class="chart-wrapper"></div>
+        </div>
+      </section>
+
+      <section class="panel panel--half panel--insight">
+        <h2 class="panel__title">High-Cost Origin Notes</h2>
+        <div class="panel__insights">
+          <p>Average fares peak above RM4 for Sungai Jernih, highlighting sustained premium demand from commuters.</p>
+          <p>Batu 11 Cheras fares cluster near RM3, but volatility rises as routes extend toward central hubs.</p>
+          <div class="panel__annotations">
+            <div class="panel__annotation">
+              <strong>Annotation A</strong>
+              <p>Threshold marker at RM4 aligns with peak congestion times for Kwasa Damansara outbound commuters.</p>
+            </div>
+            <div class="panel__annotation">
+              <strong>Annotation B</strong>
+              <p>Kajang's post-RM4 tail thins quickly, indicating fewer riders accept premium pricing beyond rush hour.</p>
+            </div>
+          </div>
         </div>
       </section>
 
@@ -61,7 +79,7 @@
       <section class="attribution">
         <span>Data source: Domestic bus terminals, vehicle registrations, ridership headlines, and LRT fare matrix.</span>
         <span>
-          Built with <a href="https://vega.github.io/vega-lite/" target="_blank" rel="noreferrer noopener">Vega-Lite</a>.
+          Built by Tan Zheng Heng (33982341).
         </span>
       </section>
     </main>

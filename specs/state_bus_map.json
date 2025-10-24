@@ -2,14 +2,14 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "Distribution of domestic bus terminals across Malaysian states.",
   "width": "container",
-  "height": 460,
+  "height": 540,
   "projection": {
     "type": "mercator",
     "center": [
       110.0,
       4.0
     ],
-    "scale": 1700
+    "scale": 2000
   },
   "params": [
     {
